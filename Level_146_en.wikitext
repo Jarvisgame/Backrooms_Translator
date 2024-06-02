@@ -1,0 +1,74 @@
+Removed the Zalgo text for this, no need the delete template.
+
+Level 146 is the 147th level of the backrooms and is an unconfirmed level.
+
+{{Class 5}}
+
+
+==Description==
+Level 146 is a maze of tunnels. These tunnels always have tiles on their walls. It can also become extremely cold, to the point that ice can form on the walls. The lowest temperature it has reached is -23°C  (-9.4°F)
+[[File:Backrooms.146.v2.png|thumb|Photo taken by a wanderer in segment 1.  Photographer's body was later found with injuries akin to being crushed.]]
+
+
+These tunnels have varying lengths and sizes and are classified into segments, but it is near impossible to measure the exact length as the tunnels' length can change without warning, and can cave in Wanderers and suffocate them to death, or crush them. 
+
+===Segment 1===
+Segment 1 is a maze of small, dark tunnels. These tunnels are lined with small tiles of different colours on the entirety of the walls and floor. The tunnels in segment 1 can range from 100 meters to around 30 kilometers in length. Wanderers in Segment 1 will feel a eerie feeling of deja vu, as if they have been to the area before. If a wanderer spends too long in segment 1, they will start to see and hear hallucinations of their lives back in reality, and after around 6 or 7 hours they will lose their humanity and begin smashing their head into the wall, killing themselves. As mentioned above, Segment 1 can also change its tunnels and can can cave in Wanderers and suffocate them to death, or crush them. When a wanderer reaches the end of a tunnel, the floor will begin to fade and they will no-clip into Segment 2. There are no entities in this level, a stark contrast of the horror yet to come.
+
+===Segment 2===
+[[File:Segment 2.webp|thumb|A photo taken by a wanderer in Segment 2. What happened to the photographer is unknown.]]
+Segment 2 is the 2nd segment and is a single tunnel with a dry concrete floor, and has white and blue tiles covering its walls. It also has lights on the ceiling, which emit a monotone buzzing sound similar to the lights in Level 0. Again, the length of the tunnel can vary, but it never goes below 50 kilometers in length. Many entities roam this segment, from Deathmoths, 3-meter tall Rabids,  Skin-Stealers and many more. As a general rule of thumb, expect to find and entity every 2 kilometers travelled. The psychological effects Segment 2 has on wanderers is much less than Segment 1, and the most one can get is just hearing voices.
+
+=== Segment 3 ===
+[[File:Tunnelseg3146.jpg|thumb|A photo of Segment 3. Photographer unkown.]]
+Segment 3 is the last, largest and the most dangerous segment in Level 146. Segment 3 is a extremely long tunnel which looks similar to The Hub, with lights on the ceiling and a road on the ground. Segment 3 is filled to the brim with entities and is extremely dangerous. The length of the tunnel is well above 10 astronomical units, so it is known as "The Infinity Tunnel". One can expect to come across an entity every 100 meters, and areas which have no entities in them are extremely rare. Psychological effects on one who enters Segment 3 is much worse than Segment 1, with wanderers losing their humanity in just 40 to 50 minutes of being in Segment 3. There is only one known way to escape from Segment 3, which is to escape into a small door which can be found every 5 kilometers. Doing so will no-clip the wanderer into Level 147, where they can go back to Level 0. However, with the amount of entities in Segment 3, the only hope one has of escaping it is to fall into the segment right next to the door, which has a 0.32% chance of happening. There is also a hard drive next to the door, containing only a file called "help.note" The contents of help.note are in the documents section.
+
+== [[Entities]] ==
+There are a total of entities in Level 146. These are:
+
+[[Hound|'''Hounds''']]
+
+[[Smiler|'''Smilers''']]
+
+'''[[Clumps]]'''
+
+'''[[Death Moths|Deathmoths]]'''
+
+[[Skin Stealer|'''Skin-Stealers''']]
+
+'''Howlers'''
+
+'''Rabids'''
+
+'''Yosters'''
+
+[[Death Rats]]
+
+[[Toxin Spitters]]
+
+There is also a level-exclusive entity which is unconfirmed. It is a large entity which resembles a cross between an octopus and a bigfoot. It is about 5 meters tall and has multiple long limbs which it can use in order to kill wanderers. It is extremely hostile, and no known photographs of it exist.
+
+== Colonies and Outposts ==
+Due to the extreme nature of level 146, colonies and outposts are impossible to make.
+
+== Entrances and Exits ==
+
+=== Entrances ===
+
+* There is a small chance of arriving here by no-clipping in Level 0.
+* There is a chance of arriving here by jumping into the void in level 145.
+
+=== Exits ===
+
+* The only way to exit is to go through the door in Segment 3. Here, you will arrive in level 147, where you can no-clip into level 0.
+
+== Documents ==
+As mentioned above, near the exit door will be a small and aged hard drive containing a single file named "help.note"
+
+
+''Below is the script of help.note .''
+
+{{Redirect|Prev=145|Next=147}}
+[[Category:Levels]]
+[[Category:Unrestricted Levels]]
+[[Category:Cluster I]]

@@ -1,0 +1,161 @@
+ {{DISPLAYTITLE:Level 223："手术室"}}
+{{Class 2}}
+
+'''Level 223'''是后室的第224层。
+
+== 描述 ==
+<div class="right-image">
+[[File:Level_223_1.png|OPERATION-ROOM|link=]]
+透过一扇窗户拍摄的手术室内景
+</div>
+
+'''Level 223'''，又称'''手术室'''，是一个有着相互连通的大厅和房间，类似[[The_Frontrooms|前室]]中医院的巨大建筑。尽管建筑内有类似医院内的设备，但由于实验室设备以及化学药品的数量过于巨大，以至于本层通常被流浪者当作实验室。尽管如此，建筑内的隔间和走廊里却很少出现轮椅和担架，因此该建筑是否是一家医院还有待讨论。目前尚不清楚'''Level 223'''具体生成的时间，但从建筑和设备的现代化程度来看，初步判定该建筑为21世纪的产物，但随着探索的深入，在建筑内发现了各种不属于该时间段的物品。
+
+本层的地板由打磨光滑的石头铺设而成，并且墙壁全部由白瓷覆盖。照亮本层的灯光持续地发出微弱的蓝色，由于不存在电灯开关以及电闸，除非破坏电灯本身，否则无法关闭灯光。当流浪者走过走廊时，可能会发现一扇可以看到外界的窗户。注意，已经有通过窗户看到过2号实体的记载。本层每个房间的内部构造各不相同，在本层停留的这段时间内，我们已经成功的记录了可能遇到的4种类型的房间。
+
+<div style="background: #ffffff; color: black; margin:1em; padding:5px 10px; border: solid #000000;"><tabber>
+
+|-|药房=
+药房是在'''Level 223'''随处可见的一种房间类型，房间内胡乱地堆放着橱柜和抽屉，里面放着绷带、维生素药片以及各种物品和物质。这些物品都储存在各自的塑料容器中，并用蓝色马克笔记录了不良反应。
+
+在'''任何'''情况下都'''不'''建议食用这些化学药品，因为它们可能会对人体造成灾难性的影响，甚至死亡。如果你计划囤积或取回这些物品，请戴上护目镜和手套谨慎行事。
+
+|-|病房=
+病房是一种很常见的房间类型，并且也是你最可能遇到的房间。房间内通常有着数把排列整齐的病床和轮椅。人们可以在房间外听到心电图机的声音，但由于声音过于短促，流浪者可能根本不会注意到它。
+
+每个病房的大小个不相同，但总是能够容纳房间内的轮椅和病床。除此之外，房间内没有任何值得注意的特点，因此许多人将其视为在本层流浪的'''休息点'''。
+
+该房间也是唯一一个不需要防护服即可安全探索的房间，由于该类房间非常常见，因此通过进出这些房间在本层进行长时间的流浪是可行的，因为外界气体无法进入任何'''病房'''。
+
+|-|研究室=
+研究室，又被称为实验室，是一种类似实验中心的房间。该房间大小与[[The_Frontrooms|前室]]中的实验室相当，但内部设施并不一致。正如人们根据房间名字所推测的那样，房间内有许多实验室仪器和化合物，或是摆放在房间中央的一个大铁桌上，又或是存放在位置很是奇怪的橱柜中。
+
+房间内部从充满了不明的蓝色气体，防毒面具也被证明对这种气体没有净化能力。根据记录，吸入这种气体是极度危险的，它会在很短的时间内攻击你的肺部并严重损害肺功能，最终导致死亡。为了你自身的安全，请不要进入任何标有'''研究室'''的门。
+
+|-|手术室=
+本层的名称就来源于这类最罕见的房间类型：手术室。'''手术室'''的中央总是摆放着三张铁桌子。心脏除颤器、高压制氧机、消毒机、吸引器、麻醉设备、手术台和无影灯都放在房间角落的橱柜里。
+
+流浪者很少会遇到一间，将心脏、肠道、大脑以及其他人体器官分别装在一个标有'''器官'''标签的小塑料袋中的'''手术室'''。目前尚不清楚这些器官是从人类身上摘取的，还是房间自动生成的。然而，对于许多流浪者来说，这是十分可怕的景象，甚至有流浪者将其描述为“解剖学上令人不安”的。
+
+不管流浪者之前经历过什么，受到'''手术室'''影响的流浪者会在清醒状态下闪回被手术、吐出自己的重要器官以及在原地吐血超过两分钟的情景。这可能会导致流浪者失去理智，在绝大多数情况下，流浪者会变成[[悲尸]]，而那些没有这些症状的流浪者则会昏迷并在[[Level 0]]中醒来。
+
+如果流浪者用手去触摸任何器官袋，则会导致昏迷并且做一个可怕的梦。因此，除非有工具保证流浪者能够安全的接触器官袋，否则不建议用任何方式处理这些袋子。
+</div></tabber>
+
+走廊似乎是无限延伸的，但是由一种奇怪的、不可见的气体在本层引发的一种视觉错觉。这种气体不会通过任何方式对你的身体造成伤害。防毒面具对这种气体的效果十分有限，只有刚刚带上的五到十分钟才有效。如果流浪者想安全的在本层的大厅内走动，就需要一套完整的SCBA套装。
+
+通过进一步的研究和测试，已经发现了吸入这种气体的严重后果。测试者的部分记忆开始被手术或者外科医生工作的记忆所期待，并且由于这种记忆的印象而产生严重的副作用，包括突然的悲伤、失落、失去理智和轻微/强烈的幻觉。呼吸气体也有可能导致肺癌，并且根据我们目前的医学研究，几乎没有任何治疗手段。
+
+本层的灯会在没有任何征兆的情况下闪烁，而当研究人员对其进行研究时，他们发现这些灯在自我发光，并没有链接任何的电线。即使将灯泡拆开来观察，也没有发现任何奇怪的现象。一些人认为是某种微生物导致了这一现象，但这个观点随后就被推翻了。
+
+有报告指出，在本层的不同区域发现了多个不可见的虫洞。它们可用于将流浪者送到另一个楼层，在减少从一个楼层到另一个楼层的旅行时间时非常有用。使用这些虫洞时要小心，因为根据报告其中有数个虫洞连接至[[虚空]]或其他致命楼层。目前还不知道这些虫洞产生的原因以及链接规律。
+
+敌对组织已经开始记录这些虫洞的位置，并且滥用它们来抓捕流浪者，试图强迫他们交出资源并且接受他们的奴役。为了阻止更多的殖民地这样做，我们派遣了许多部队。<s>我们需要帮助。</s>目前，强烈建议流浪者远离这些虫洞。
+
+==实体==
+本层已被观测并证实存在的实体有：[[Windows|窗口]]、[[猎犬]]。
+
+==据点和前哨站==
+由于本层的异常情况，无法建立任何据点和前哨站。
+
+==入口和出口==
+===入口===
+*打开一扇现代医院的门有可能来到本层。
+*当流浪者在[[Level 16]]探索时，他可能会看到一辆轮椅在走廊中间移动。这是一个信号，随后流浪者将会被送到本层。
+*发现[[Level 14]]的一个反常现象会将你带到这里。
+*在[[Level 193.1]]卡出会将你带到这里。
+*通过[[枢纽]]来到[[Level 97]]并穿过标有'''手术室'''的门。
+*拥有某些记忆片段可能会导致流浪者进入病房或者手术室。
+
+===出口===
+*许多虫洞会将流浪者带到以下楼层：[[Level 0]]、[[Level 3]]、[[Level 4]]、[[Level 8]]、[[Level 16]]、[[虚空]]等。
+*进入一个木门可以将流浪者带到[[Level 96]]。
+*一个未知的异常会将流浪者踢出本层并来到[[The_End|终末]]。
+*进入标有'''0'''的壁橱会将流浪者带到[[Level 0]]。
+*找到并进入一扇生锈的金属门会将你带到[[Level 14]]。
+
+==发现==
+以下文件展示了一名特工在执行取回未知物品的任务时偶然发现了'''Level 223'''的经过。
+
+<div class="mw-customtoggle-third"><span style="color: green;">'''>Level 223发现记录'''</span></div><div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-third">
+<div class="titleblock"><span class="titlebox">录音开始</span><br>
+'''马克·罗伯茨：'''克雷斯特，收到请回答。
+
+'''克雷斯特·阿杨：'''收到收到，请汇报你现在的位置。
+
+'''马克·罗伯茨：'''我现在在[[Level 16]]，重复，我现在在[[Level 16]]。
+
+'''克雷斯特·阿杨：'''你的任务是找回一个未知的异常物体，继续前进。
+
+'''马克·罗伯茨：'''woc，咱俩可是好哥们，不用说话这么严肃吧。
+
+'''克雷斯特·阿杨：'''我们确实是朋友，但更重要的是，我需要确保你和我保持联系。
+
+'''马克·罗伯茨：'''收到，嗯，到目前为止没有任何奇怪的事情，但我确实看到了一个正在自己移动的轮椅。
+
+'''克雷斯特·阿杨：'''这没什么值得奇怪的，继续前进。
+
+'''[链接丢失]'''
+
+'''马克·罗伯茨：'''呃，我这是在哪里？克雷斯特，你能听到我说话吗？
+
+'''克雷斯特·阿杨：'''非常清晰洪亮马克，你现在在什么位置。
+
+'''马克·罗伯茨：'''emmmm，我目前在某个建筑内部，有一些门，整个走廊好像无限延伸下去，你那边有没有什么描述类似楼层的文件？
+
+'''克雷斯特·阿杨：'''你还需要继续描述一些东西，有许多楼层都有着这些特征。
+
+'''马克·罗伯茨：'''天花板的灯发出某种蓝色的光，墙壁铺满了白瓷砖，地板是用光滑的石头铺成的。
+
+'''克雷斯特·阿杨：'''根据数据库的记录，没有你描述的楼层。
+
+'''马克·罗伯茨：'''我肯定是发现了一个新的楼层或者什么东西，我会继续寻找出口，为了保证音频通信质量，我将断开视频链接。
+
+'''克雷斯特·阿杨：'''有情况随时向我报告，好吗？
+
+'''马克·罗伯茨：'''我会的，别担心。
+
+'''[音频结束]'''
+</div>
+</div>
+
+==获取到的信息==
+<div class="mw-customtoggle-first"><span style="color:blue;">'''>恢复的字条'''</span></div><div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-first">
+<div class="titleblock"><span class="titlebox">恢复时间：未知</span><br><center>''VWLYHAPVU-271''<br /><br />
+</center>Klzwpal ovd tbjo P kpzsprl tf qvi, pa pz vicpvbz aoha P dpss ulcly xbpa hz svun hz aol jvuayhja ylthpuz. P kpzjvclylk aoha Rlcpu huk P ohk illu vyklylk av jhyyf vba "Vwlyhapvu-271." Aol khf pz nvpun av il clyf svun.
+
+
+Zbwwvzlksf, dl ohcl av ahrl vba aol whaplua'z iyhpu, lflihssz, huk, olss, olhya. Aolyl dpss il uv dhf av hcvpk aopz, hz tf ivzz ohz hsylhkf zahalk aoha dl dpss il alytpuhalk pm dl ylmbzl av jvtwsf dpao aol ybslz huk wyvjllk dpao aol vwlyhapvu. Pa'z 2 WT ypnoa uvd, 3 ovbyz ilmvyl P ohcl av kv zvtl uhzaf zopa.
+
+Qbza mpupzolk aol vwlyhapvu, sprl lclyf vaoly vul aoha P wlymvyt, aopz vul pz qbza hz uhzaf. Aopurpun hivba ohunpun vba dpao Rlcpu shaly, P ullk zvtl aptl vmm myvt aopz qvi. Iba, ha slhza pa pz luvbno mvy tl av hmmvyk mvvk huk zolsaly mvy tf mhtpsf. P zobaaly av aopur doha dpss ohwwlu pm aopunz kvlzu'a nv aol dhf aolf hyl. P tbza zavw dypapun. P tbza uva sla aopz nla av tl, ha hss jvza.
+
+UVAL: Ibyu aopz whnl shaly.
+
+''签名，马克·罗伯茨。''
+</div>
+</div>
+
+<div class="mw-customtoggle-second"><span style="color:blue;">'''>未知的文件'''</span></div><div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-second">
+<div style="background: #e1e1e2; color: #000000; margin:1em; padding:5px 10px; border: solid #000000; font-family: monospace; border-radius: 20px; font-size: 20px;">
+<center>IHBE··EEWT··IOF·S·R·
+
+UTM·N·I·KPS·ERE·POS·
+
+APS·L·E·E·
+
+T·NRNEUO·S··TO·
+
+LAVHIREEEERRS·YE·EW·
+</center>
+</div>
+</div>
+
+{{Collapse|initial=<span style="color:brown">'''> 查看作者与关于信息'''</span>|final=<span style="color:brown">'''< 隐藏作者与关于信息'''</span>|body=作者:[https://backrooms.fandom.com/wiki/User:Nqh1 Nqh1]<br>译者：[https://backrooms.fandom.com/wiki/User:NotFatDog 不是肥狗]}}
+
+{{Redirect|Prev=222|Next=224}}
+[[en:Level 223]]
+[[Category:楼层列表]]
+[[Category:楼层]]
+[[Category:集群1]]
+[[Category:神话楼层]]
+[[Category:Class 2]]

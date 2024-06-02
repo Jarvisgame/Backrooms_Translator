@@ -1,0 +1,43 @@
+{{DISPLAYTITLE:Level 113: '''<font color="#ff0000">"</font><font color="#f00606">N</font><font color="#e00c0b">y</font><font color="#d11111">c</font><font color="#c11717">t</font><font color="#b21d1c">o</font><font color="#a22322">p</font><font color="#932828">h</font><font color="#832e2d">o</font><font color="#743433">b</font><font color="#643a39">i</font><font color="#553f3e">a</font><font color="#454544">"</font>'''}}
+{{Class 5|entity=Entity Infestation}}'''Level 113''' is the 114<sup>th</sup> level of the Backrooms.
+== Description==
+=== Architecture and lighting===
+'''Level 113''' consists of a giant 50 ft<sup>2</sup> (~15 m<sup>2</sup>) room. Ceiling height is unknown, possibly infinite. The shape is a perfect square. (Besides in height) Upon entry, a door is placed on a random spot on one of the walls. It usually leads to another, larger section of the Vastrooms. Sometimes, though, it transports you to the [[The Void|Void]]. This has only happened once in recorded history, so the door is mostly safe. It was discovered that all types of light in '''the Vastrooms''' won't work; candles won't light, electric lights give off no light, etc. Walls' and floor's color is undetermined due to darkness. The floor seems to be stained by [[Liquid Pain]]. There are ~4 ladders attached to every wall of various lengths, most over 30 feet, but eventually end with no destination. Sometimes they lead to other levels.
+[[File:Level 113 Found Image.png|alt=An image of Level 113|thumb|248x248px|<p style="color:black">Night vision image of '''Level 113''']]
+Registered as '''unsafe''' due to the massive amounts of [[Entity List|'''entities''']]; there is approximately 1 entity 15 square feet. Registered as '''unsecure''' due to the level being pitch-black.
+===Entities===
+There is only one type of '''entity''' in '''Level 113''', although there are many of it. However, sightings of '''Polygonal Facelings''' have been reported in later sections.
+==== Adult Shadow Facelings ====
+Shadow [[Facelings]] are a type of Faceling—a faceless humanoid creature—that are all-black and look like a silhouette. Extremely hostile (if they recognize you aren't one of them) but not very strong. Shadow facelings, at least in this level, don't move much and can't usually tell you are a human unless you move a lot or they see you too long. '''Hazard: 4'''
+==Colonies and Outposts==
+Due to the extreme darkness of this level, colonies and outposts are unable to be established.
+==Entrances and Exits ==
+===Entrances===
+#Breaking a light in [[Level 0]] '''(Most consistent way)'''
+#Keeping your eyes closed in a light area of '''any level''' for over 3 days straight
+# Finding the first door you find in the Basement of [[Level 527]] has a chance to bring you here, also to bring you to other levels.
+=== Exits===
+Exits in '''Level 113''' vary for everyone.
+
+The level will slightly alter itself for everyone whom enters. It will adapt to your '''greatest fear,''' but acrophobia and teraphobia/agoraphobia are always included. You can escape to the next level by facing that fear, or by using one of the always-present exits below: 
+#'''ACROPHOBIA EXIT'''
+##There is one ladder out of the ~16 ladders on the walls that will, instead of end, bring you to a grey portal which takes you to [[Level 114]] specifically. These ladders are much taller than the rest. Likewise, there is one very short ladder, about 5 feet, which can bring you to '''any level''' before '''Level 113.''' 
+#'''TERAPHOBIA/AGORAPHOBIA EXIT'''
+##Go through the door, then the next, and so on for a total of 10 times. ''Please note that the entities get more aggressive every door.''
+
+===Discovered Exits===
+These exits were discovered by wanderers. 
+
+# '''ARACHNOPHOBIA EXIT'''  
+##A picture, presumably taken by [[The Cameraman]], was found in this level. It showed a night-vision shot of the corner which had a nest of spiders with a very large (unlike the other door) door behind it. It is unknown if this photo was even from the level, but it is assumed that wanderers who suffer from '''arachnophobia''' will see something similar.
+ If any wanderers find another exit based on their phobias, please add it in the format used above.
+  [[Category:Levels]]
+ 
+  
+  [[Category:Levels 100+]]
+ 
+  
+  [[Category:Level List]]
+ 
+  
+  [[Category:Level]]

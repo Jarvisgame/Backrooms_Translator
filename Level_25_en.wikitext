@@ -1,0 +1,88 @@
+{{DISPLAYTITLE:> Level 25 - <span class="onlylight" style="background: linear-gradient(to bottom, #0B0B45,#241f3c); -webkit-text-fill-color: transparent; -webkit-background-clip: text; font-family:Rubik Glitch; color:brown; text-shadow: 0 0 35px gray;">"Out of Order"</span>
+<span class="onlydark" style="font-family:Rubik Glitch; color:gray; text-shadow: 0 0 35px white;">"Out of Order"</span>}}
+{{Background|file=Level-40-cc.jpg}}
+{{Headerbox|header=<div class="pagefooter"></div><span style="font-size:25px;"><code><span style="font-family:Jost;"><u>'''Left behind for god knows how long...'''</u></span></code></span><div class="pagefooter"></div>|file=Level-40-cc.jpg|speed=20s}}<div style="font-family:Jost; background: #0B0B45; color: white; border: 15px double #2c2c2c; box-shadow: 0 0 100px #000000 inset; padding: 1rem; margin:1em; text-shadow: 0 0 10px white, 0 0 10px black;">
+{{Class Custom Image|class=1|hexagon=<small>🖥</small>|safety=Safe|stability=Stable|entity=Minimal Entity Count|bg-image=Level25-1.png|text-color=#D3D3D3}}
+----'''Level 25''' is ubicated as the 26<sup>th</sup> level that is currently present within the [[Backrooms Wiki|Backrooms]]. It is assumed to be initially discovered on 12/07/2017, according to a series of journals about the level left by a soon-to-be disclosed wanderer.
+<div class="pagefooter"></div><span style="font-family: Jost; font-size:30px;"><code><span style="font-family: Jost;">'''> ''Description'''_''</span></code></span><div class="pagefooter"></div>
+{{Blurimage|file=Arcade255.jpg|caption=
+----<span style="font-family: Jost;">At least the smallest sign of life can be seen in this echo of an arcade.</span>
+----}}
+'''Level 25''', also known as "Out of Order" or "The Arcade," is a distinctive and intriguing level that recalls nostalgia for the mid-to-late 1980s arcade period. '''Level 25''' presents itself as a series of multiple rooms that connect segmented, adorned with an array of mid-to-late 80s arcade cabinets that fill most of the rooms, though some are out of order or have been destroyed beyond recognition, posing an electrical hazard to the level. The rooms are partially or entirely made of echoey, decaying concrete, and carpet occasionally covers the floor. The designs and decorations were reminiscent of the level's theme. While '''Level 25''' has yet to be fully explored and documented, presumably due to a mildly hazardous or cluttered environment, Level 25's size roughly spans 2,961 miles, making it one of the tiny levels in the Backrooms.
+
+At first sight, the level's theme seems to fit in with the aforementioned antique arcade ambiance, with the composition being an outer space theme. It distinguishes itself from other levels by its decorations and aesthetics, which, along with the level's abandoned to nature, generally range from decoration such as bright yet dim neon lights imitating stars to hand-made solar systems hanging from the ceiling, proving to be a highly admirable sight. Another noticeable aspect of the level is the carpet, which appears as a dark neon-colored carpet with occasional visual representations of planets and stars or a pitch-black rug with randomly strewn white dots indicating stars. This carpet's design motif is not limited to the floor; it can be plaster on the walls and ceiling. This outer space theme appears to have certain features that can glow light in locations devoid of light sources, especially in darkness.
+
+LED lights on the ceiling are often dim. However, they are still not the primary light sources for the level because many rooms lack ceiling lights. Instead, coin-operated machines and operational arcade cabinets serve as the main lighting. In the absence of arcade machines, however, the carpet can grow lighter, preventing it from being too dark in the room. But if none of the above are present, the area will be completely dark. Air conditioning is installed around the level to keep the temperature cool and comfortable.
+{{Blurimage|file=Level25-1.png|caption=
+----<span style="font-family: Jost;">A forgotten childhood.</span>
+----}}
+Aside from arcade machines, you can find many coin-operated machine games that don't require coins and are free to play in large rooms. Arcade cabinets and devices are constantly on and plugged into power outlets. Some may still not plug in, rendering them unplayable, and this usually happens to all the machines in the room. The arcade appliance could not be operational because certain rooms lack or have limited power outlets. The level's atmosphere is silent and isolated, as all gaming machines make no sound unless wanderers interact with them and play them, in which case the game's sound effects will be audible. In some places, the mellow tones of classic 80s pop music may intensify, but this song always makes wanderers nostalgic for their childhoods.
+
+Except for those gaming machines, there is also technology, such as the Nintendo GameBoy, NES, and others, but they are all from the 1980s and have no WiFi connection. There are old Coke and snack vending machines, and individual vending machines may hold objects for survival. Paper "Out of Order" signs may be posted on vending machines to indicate that they are not in operation and cannot take things while it is impossible to damage them. The inside of those vending machines typically contains a potent supply of items and supplies; valuable items are inside, but the machines malfunction. These vending machines hypothesize that they are false and induce internal illusions.
+
+Not all locations are arcades; others can be indoor playgrounds, large dining areas, or bowling alleys. Indoor playgrounds are a construction of many types of internal play areas linked together into a single structure, or it may be a trampoline park. The dining areas are enormous rooms with many seats and tables, with nearby restaurants. Fast food and 1980s-style pizza are still widely available, complimentary, and constantly refilled in most establishments. These places have many vending machines, and fast food, pizza, and flat soda odors spread throughout the area. The bowling alleys are typical neon bowling alleys with many of the same characteristics as the arcades.
+{{Blurimage|file=Outoforder.jpg|caption=
+----<span style="font-family: Jost;">The start of memory lane.</span>
+----}}
+Although the safety of some snacks and drinks is questionable due to those that appear on the table and floor in various rooms, they are mostly spoiled, having expired a long time ago, and are unconsumable, except for some that can still be consumed and drunk safely—depending on the types. However, despite its expiration dates, everything sold in vending machines is still safe to eat and drink. It seems to prevent food and beverages from expiring.
+
+Doors in the arcade part proceed to the restrooms rather than another arcade area. Doors with "Employees Only" signs lead to back vacant regions. They sometimes contain crates or ancient, lengthy, un-steamed, and frigid boilers. The latter often includes standard items like almond water or ordinary snack-based food. There are a lot of abandoned arcade games that remain playable. However, most of them are broken or otherwise damaged.
+
+Some areas of the level may appear abandoned, with items and garbage scattered and ransacked, damp carpet, sometimes ripped-up, and many arcade machines broken, only a few operable. These rooms have a persistent but thin coating of dust on the floor, indicating that they have been neglected for a lengthy period without cleaning. These abandoned regions can be destroyed, including the construction of the rooms, which has discovered fractures from the wall to the ceiling, in contrast to the remainder of the level, which can't be damaged or will heal itself over time. All of the ceiling lights in here are either damaged or inoperable.
+
+<div class="pagefooter"></div><span style="font-family: Jost; font-size:30px;"><code><span style="font-family: Jost;">'''> ''Arcade Cabinets'''_''</span></code></span><div class="pagefooter"></div>
+{{Blurimage|file=Quarterhub.webp|caption=
+----<span style="font-family: Jost;">Fragmented nostalgia.</span>
+----}}
+The rest of the level is occupied and ornamented by video game arcade machines. Similar to the early to mid-1980s, they come in many designs and sizes. However, they are all functional and, for the most part, compatible with games from that period. Some arcade games are well-known in the Frontrooms, but others are absent from the Frontrooms, and some seem to have no names and random goals. These deactivated or battered-down video game cabinets can be ransacked, scavenged, bent, or broken in various ways and methods. These cabinets can litter abandoned areas or employee rooms.
+
+However, an extremely small percentage of arcade cabinets—roughly 1 in every 1500—have anomalous properties. These machine cabinets retrofit with the capability to take their present users to a predefined level in the Backrooms. These gadgets initially display nothing except a dark screen. When a user interacts with the device, a pixelated representation of the level they will take appears. By pressing any button on the machine cabinet again, a person will teleport to another level of The Backrooms, whose level destination corresponds to the image on the screen.
+
+For some reason, these arcade cabinets are unlike typical ones, which can be damaged. If they do, the arcade cabinets cannot use for exit anymore. These cases have happened to M.E.G. when arcade cabinets that transport to [[Level 10]] have gone entirely non-functional due to water damage.
+
+As of current, all found anomalous arcade cabinets can transport their users to the following levels: [[Level -2]], [[Level 0]], [[Level 3]], [[Level 5]], [[Level 6]], [[Level 9]], [[Level 10]], [[Level 11]], [[Level 12]], [[Level 19]], [[Level 21]], [[Level 24]], [[Level 26]], [[Level 29]], [[Level 37]], [[Level 41]], Level 50, [[Level 87]], Level 90, or [[The End]]. It should note that entering levels such as [[Level 87]] or [[The End]] won't spawn an arcade cabinet to exit.
+
+<div style=" background: black; color: white; padding:5px; border-left:5px solid white; margin: 5px 0 5px 2px; box-shadow: 0px 0px 7px #000000;">
+You may see now why I name '''Level 25''' "The Arcade Hub," since the arcade cabinets can lead to many levels of the backrooms and possibly every level. This level is unlike [[Level 21]], which will take you to a random level, but the place where every arcade cabinet may take you to a specific level. By simply finding the arcades that look similar to each other, when you interact by pressing a button, it will activate and show a picture of the level that it will lead you to, and if you interact again, it will take you by no clip to that level. I think the cabinet's color might indicate the level that will go on, but I am not sure. This level connects to many, many others. It acts as a hub of sorts. For what or why? I don't know, but I feel that someone most likely did. Like in the past, there might have been a group or organization here once, and they tried to make these arcade cabinets connect to various levels of the Backrooms, so they used this level as their method of travel to find supplies or trade with bases in that level. However, all of this is just my theory.
+
+Many people misunderstood this level; they thought it was a trap with no way out that would entice people to keep playing arcade games indefinitely, making it seem like a false version of heaven. I'm not sure why people were thinking that way. I recall an occurrence similar to the one that affected [[Level 130|Level 13]], which caused all level exits to lock, making it impossible for wanderers to leave. However, because the entries were still functional, any new wanderers who entered were also stuck there. It happened for about six months, and '''Level 25''' became missing from the database. After the phenomenon passed, exits became functional, yet people remembered '''Level 25''' unfavorably.
+<div style="text-align: right">— [[User:KingSheep17|KingSheep17]], the one who aforementionedly discovered '''Level 25'''.</div>
+</div>
+
+<div class="pagefooter"></div><span style="font-family: Jost; font-size:30px;"><code><span style="font-family: Jost;">'''> ''Entities'''_''</span></code></span><div class="pagefooter"></div>
+'''Level 25''' is nearly fully devoid of any life. The only entities found are [[Kats]], typically observed taking a nap inside broken arcade cabinets or exploring and interacting with their surroundings, and [https://backrooms.fandom.com/wiki/User:MoonlightSerenity/Sandbcx_for_the_Facelings Facelings], viewed "interacting" with the arcade machines or serving as background commotion.
+
+<div class="pagefooter"></div><span style="font-family: Jost; font-size:30px;"><code><span style="font-family: Jost;">'''> ''Colonies and Outposts'''_''</span></code></span><div class="pagefooter"></div>
+<div class="pagefooter"></div><span style="font-family: Jost; font-size:20px;"><code><span style="font-family: Jost;">'''>> ''M.E.G. Arcade Outpost'''_''</span></code></span><div class="pagefooter"></div>
+*An outpost built by M.E.G. to gather arcade machines that can transfer to many levels so that they can explore and trade with outposts in other levels.
+*It consists of about twenty persons trying to gather the different materials.
+
+<div class="pagefooter"></div><span style="font-family: Jost; font-size:30px;"><code><span style="font-family: Jost;">'''''> Thresholds'''_''</span></code></span><div class="pagefooter"></div>
+
+<div class="pagefooter"></div><span style="font-family: Jost; font-size:20px;"><code><span style="font-family: Jost;">'''>> ''Entrances'''_''</span></code></span><div class="pagefooter"></div>
+
+*<u>Main entrance:</u> Miniature wormholes in [[Level 24]] may appear on random intervals, though rare to encounter, entering one of them will take one to [[Level 25]]. Do not enter large worm holes or black holes, as it will rip wanderers apart.
+*Finding the arcade machine and interacting with it at a variety of levels may lead to '''Level 25'''.
+*'''Level 25''' is known to be accessed by entering a room, slightly resembling a janitor closet in [[Level 4]]. Simply staying in the room for enough time will cause one to fall unconscious and enter the arcade.
+*Finding a room full of paintings of an arcade in [[Level 29]] will also lead here.
+
+<div class="pagefooter"></div><span style="font-family: Jost; font-size:20px;"><code><span style="font-family: Jost;">'''>> ''Exits'''_''</span></code></span><div class="pagefooter"></div>
+
+*Interacting with certain arcade machines may lead to a vareity of levels, listed before.
+*Reaching the end of the level and going through the revolving door will land one in either [[Level 9]] or [[Level 11]].
+----
+<div style="text-align: right>
+<div class="mw-customtoggle-author"><span style="color:green">'''>>> Author Information'''</span></div>
+<div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-author">
+Original version written by: [[User:KingSheep17|KingSheep17]].
+<br/>Rewritten by: [[User:MaxCommonXD|MaxCommonXD]], [[User:MikeScpFan229|Mike]] and [[User:ARandomMiner8068|Xanth]].
+<br/>Wikitext: [[User:ARandomMiner8068|Xanth]].
+<br><br>Also thank you, readers of the page!<br>Thank you so much for viewing the page! For any feedback, opinions or suggestions, please say it in the comments below.<br>Welcome to Contribute. Teamwork makes the dreamwork.
+</div>
+</div>
+<br>
+{{Redirect|Prev=24|Next=26}}
+</div>
+[[Category:Cluster I]]
+[[Category:Levels]]
+[[Category:Positive Levels]][[Category:Safe Levels]]

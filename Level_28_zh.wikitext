@@ -1,0 +1,290 @@
+{{DISPLAYTITLE:Level 28："实验室"}}
+{{Class 0}}
+
+'''Level 28'''是后室的第29层，曾经作为后室研究团队的主研究实验室运行。
+
+== 描述 ==
+{{Blurimage|file=Level_28_1.jpg|caption = 一张在'''Level 28'''中进行秘密实验的照片.}}
+
+'''Level 28'''内部类似前室中的科学实验室，但目前该实验室已经被废弃，只剩下了部分损坏的实验设备，泄露一地的化学试剂以及忽暗忽明的照明装置。实验室内部的墙壁被漆成了白色，桌子上整齐摆放着显微镜以及计算机，而笔记则散落在地上。有证据表明，后室研究团队曾在1996年到2018年这段时间在本层进行过秘密实验，但该实验室被废弃的原因尚未得知。
+
+当流浪者第一次进入本层时，面前将会出现一条短走廊，走廊两侧有着标注着各类特定科学研究领域的门。进入对应的门会将你带到一间研究对应研究领域的废弃实验室。这间实验室的墙上有着一张放置着科学研究能使用上的全部仪器以及知名设备，下文将对此进行详细说明：
+
+<div style="background-color:#FFFFFF; color:#000000; margin:1em; padding:5px 10px; border:2px dotted #000000; border-radius: 3px">
+'''警告信息：'''实验室内部的所有机器都已经停止工作，我们正在识图重新启动这些设备，甚至召集工程师来对这些设备进行维修，但是都无济于事。
+
+除此之外，在某些特殊情况下，实验设备可能会执行一些在其预期用途之外的无法解释的任务。有流浪者的报告指出，某些设备会不定时的开启和关闭，好像“活过来”一样，并且转变为敌对实体。但是，这些报告的真实性目前无法被验证。</div>
+
+<div class="mw-customtoggle-first" style="color:green">'''查看表格 >'''</div>
+<div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-first">
+{| class="article-table"
+! style="background-color: #ccf243; color: black" |研究领域
+! style="background-color: #ccf243; color: black" |房间号
+! style="background-color: #ccf243; color: black" |基本描述
+! style="background-color: #ccf243; color: black" |值得注意的设备
+|-
+| style="background-color: #cfffa8; color: black" |物理学
+| style="background-color: #cfffa8; color: black" |251
+| style="background-color: #cfffa8; color: black" |研究物质、粒子、运动、时空、能量、力
+| style="background-color: #cfffa8; color: black" |粒子加速器、真空室
+|-
+| style="background-color: #cfffa8; color: black" |化学
+| style="background-color: #cfffa8; color: black" |102
+| style="background-color: #cfffa8; color: black" |研究物质的性质和不同情况下的表现
+| style="background-color: #cfffa8; color: black" |高效液相色谱仪、烧瓶、本生燃烧器
+|-
+| style="background-color: #cfffa8; color: black" |生物学
+| style="background-color: #cfffa8; color: black" |103
+| style="background-color: #cfffa8; color: black" |研究生命，以及维持生命的组成部分
+| style="background-color: #cfffa8; color: black" |离心机、生物反应器
+|-
+| style="background-color: #cfffa8; color: black" |心理学
+| style="background-color: #cfffa8; color: black" |106
+| style="background-color: #cfffa8; color: black" |研究思想和行为
+| style="background-color: #cfffa8; color: black" |相机、斯金纳箱
+|-
+| style="background-color: #cfffa8; color: black" |天文学
+| style="background-color: #cfffa8; color: black" |213
+| style="background-color: #cfffa8; color: black" |对天体现象的研究
+| style="background-color: #cfffa8; color: black" |碟形卫星天线、天文望远镜
+|}
+</div>
+
+如果没有任何实验设备被破坏的话，本层的实验室完全可以安全的四处探索。目前位于[[Level 11]]的后室研究团队正在发掘本层被废弃的原因。他们搜索了该区域并收集到了一些有助于解开谜团的重要笔记。如果本层的流浪者发现了其他任何有可能有帮助的笔记，我们鼓励他们将这些笔记转交给[[Level 11]]的实验室或者[[M.E.G]]。
+
+接下来是一些以电子邮件形式展示的注意事项，注意，查看以下文件需要授权访问权限，任何试图侵入数据库的行为都将受到严厉的惩罚。
+
+'''仅限后室研究团队浏览'''
+<div class="mw-customtoggle-second" style="color:green">'''查看邮件 >'''</div>
+<div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-second">
+{| class="article-table"
+!请输入你的登录凭证:
+|用户名: bresearchteam14
+
+密码: **********
+|}
+<div class="mw-customtoggle-third" style="color:green">'''登录 >'''</div>
+<div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-third">
+'''已授权允许访问，请不要泄露以下信息'''
+----
+<div class="mw-customtoggle-fourth" style="color:green">'''粒子加速器-#1号邮件 >'''</div>
+<div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-fourth">
+<div style="background-color:#AAAAAA; margin:1em; padding:5px 10px; border:2px double #777777 ; border-radius: 20px">
+'''发件人：''' 本·格雷姆林博士，后室研究团队负责人<br />
+'''收件人：''' 余苏克博士<br />
+'''主题：''' 物理学实验室-粒子加速器故障？
+----
+很抱歉打扰你，苏克博士，但这件事真的非常紧急。
+
+我目前在251室并且迫切的需要你提供帮助，我们的粒子加速器虽然正在运行，但通常它应该只加速两个粒子并让它们碰撞，以此来产生一些高能扰动。但是，现在在粒子碰撞前的几秒钟，粒子似乎……减速了。
+
+我目前无法找到引发这一问题的原因，但你作为我们的首席物理学家，我觉得你有实力解决它。
+
+与此同时，我还计划进行一个新的真空室实验：目前团队还有几个[[无面人]]和一个[[悲尸]]。我想测试一下这两类实体能否在真空环境下生存。
+
+'''试验：''' A1
+
+'''目标：''' <br />
+A1主要用于确定后室实体是否能够在真空或者无氧环境下生存。如果这个猜想是真的，我们可能会进行进一步的测试，用于开发具体有效的抵御它们的武器和战术。
+
+'''所需材料：'''
+* 251室的真空室
+* 3个[[无面人]]
+* 1个[[悲尸]]
+* 数个工作摄像机，106室的就足够用了。
+* 使用计算机将结果记录在数据库中。
+
+'''参与人员：'''
+* 余苏克博士
+* 特蕾莎·布莱克
+* 约瑟夫·S·唐尼
+* 泰勒·乔伊·霍夫曼
+* 凯瑟琳·里弗斯
+* 瑞安·古普勒
+
+出于保密原因，我不会在这封邮件里透露更多关于这个项目的信息，这会有被拦截的风险。根据实验室时间，你们应该在6月7日上午9点30分左右在251室集合，在那里我将详细解释整个试验流程。
+
+邮件中提到的另外五名科学家，我相信我们能够在没有大失误的前提下圆满完成这项试验，期待你们的回复。
+</div>
+</div>
+
+<div class="mw-customtoggle-fifth" style="color:green">'''失踪的研究员-#2号邮件 >'''</div>
+<div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-fifth">
+<div style="background-color:#AAAAAA; margin:1em; padding:5px 10px; border:2px double #777777 ; border-radius: 20px">
+'''发件人：''' 本·格雷姆林博士，后室研究团队负责人<br />
+'''收件人：''' 余苏克博士<br />
+'''日期：''' 6.8.2001<br />
+'''主题：''' 你在哪？
+----
+苏克博士，这写这封邮件的原因是你已经一周没有到实验室报过到了，我们的粒子加速器仍然处于损坏状态，没有你我们无法开始正式实验。
+
+如果出现了什么问题，请第一时间告知我。我会在下文描述最新的实验细节，我希望你能仔细阅读并给出任何建议。
+
+'''试验：''' A1
+
+'''目标：''' <br />
+A1将用于确定后室实体是否可以在真空或者无氧环境下生存，如果这一假设是真的，我们将开始利用这个信息开发对应的用于无效化实体的武器，并以此代替击杀它们。
+
+'''试验必须材料：''' 
+* 251室的真空室
+* 7个[[无面人]]
+* 4个[[悲尸]]
+* 1个[[猎犬]]
+* 1个[[窃皮者]]
+* 数个工作摄像机，106室的似乎已经损坏，所以带上你自己的吧。
+* 使用计算机将结果记录在数据库中。
+
+'''参与人员：'''
+* 余苏克博士
+* 特蕾莎·布莱克
+* 约瑟夫·S·唐尼
+* 泰勒·乔伊·霍夫曼
+* 凯瑟琳·里弗斯
+* 瑞安·古普勒
+
+出于保密原因，我不会在这封邮件里透露更多关于这个项目的信息，这会有被拦截的风险。根据实验室时间，请你在6月23日上午9点30分左右到251室，我希望在哪里见到你。
+</div>
+</div>
+
+<div class="mw-customtoggle-sixth" style="color:green">'''苏克的回信-#3号邮件 >'''</div>
+<div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-sixth">
+<div style="background-color:#AAAAAA; margin:1em; padding:5px 10px; border:2px double #777777 ; border-radius: 20px">
+'''发件人：''' 余苏克博士<br />
+'''收件人：''' 本·格雷姆林博士<br />
+'''日期：''' 6.19.2001<br />
+'''主题：''' 回复：你在哪里？
+----
+不好意思，格雷姆林博士，我之前一直在[[Level 70]]做一些调查。[[Level 70]]发生了一起模拟事件，波及到了5名管理者，而我被派去调查此事，很抱歉让你一直在等待。阿尔法，或者说你认识的那个瑞安·古普勒，被人发现神秘地死于三处枪伤。我还得完成这件事的报告，所以我这边可能会暂时搁置你提议的项目。
+
+当然，一旦我做完手里的工作，我建议我们继续你提到的试验，A1试验我认为有很大的潜力，我会通知其他人，并让他们按时就位。
+</div>
+</div>
+
+<div class="mw-customtoggle-seventh" style="color:green">'''格雷姆林的回信-#4号邮件 >'''</div>
+<div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-seventh">
+<div style="background-color:#AAAAAA; margin:1em; padding:5px 10px; border:2px double #777777 ; border-radius: 20px">
+'''发件人：''' 本·格雷姆林博士，后室研究团队负责人<br />
+'''收件人：''' 余苏克博士<br />
+'''日期：''' 6.20.2001<br />
+'''主题：''' 感谢你告知我
+----
+你好，苏克博士，我收到了你发送的电子邮件。
+
+感谢你的回复，我听说了发生在[[Level 70]]的时间，实在是一场灾难。这可能会危及到该层其他流浪者的安全。但实际上你可以早点通知我，在你“长时间失联”去调查[[Level 70]]之前。彻底的失联可不是你的做事风格，更何况你还没有及时通知我。
+
+我会让茱莉亚·费代替古普勒，你还记得她吗？她有着一头金发，蓝色的双眼，苍白的皮肤。她和古普勒一起在生物学实验室工作。你可能需要告知茱莉亚古普勒死亡的消息，毕竟她俩总是形影不离。
+
+不管情况如何，我们三天后见，请记得通知其他的科学家，[[无面人]]一家愈发的不安了。
+</div>
+</div>
+
+<div class="mw-customtoggle-eighth" style="color:green">'''苏克和唐尼之间的对话-#1号文件 >'''</div>
+<div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-eighth">
+<div style="background-color:#AAAAAA; margin:1em; padding:5px 10px; border:2px double #777777 ; border-radius: 20px">
+'''音频记录：06/23/2001 - 9:23 AM'''
+----
+'''苏克：''' 我已经尽可能快的来到这里了，格雷姆林。
+
+'''唐尼：''' 格雷姆林？我是约瑟夫·唐尼。伙计，你忘了吗？你这里干什么，苏克？
+
+'''苏克：''' 我来这里干什么？格雷姆林请我协助他来进行A1实验。他需要使用真空室对实体进行测试。说到格雷姆林，他在哪里？
+
+'''唐尼：''' 啊，这就是格雷姆林所说的试验啊，我不知道我们要做真空室试验啊，也没人告诉过我。他现在在化学实验室，调查本生灯的可疑事件。等等，你看起来好像有点不一样？苏克？你有什么不舒服的地方吗？平时这个时候你应该会讲点缓和氛围的笑话的吧？
+
+'''苏克：''' 啊对，应该讲个笑话的，我怎么会忘了这件事呢？
+
+'''唐尼：''' 现在讲出来也不算太迟。
+
+'''苏克：''' 好的，那我来一个。唐尼在被枪杀之前对本科学家说了什么？
+
+'''唐尼：''' 我不知道啊，这是什么冷笑话。
+
+'''[一声枪响]'''
+</div>
+</div>
+
+<div class="mw-customtoggle-ninth" style="color:green">'''苏克和格雷姆林之间的对话-#2号文件 >'''</div>
+<div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-ninth">
+<div style="background-color:#AAAAAA; margin:1em; padding:5px 10px; border:2px double #777777 ; border-radius: 20px">
+'''音频记录：06/23/2001 - 9:32 AM'''
+----
+'''格雷姆林：''' 刚才发生了什么？唐尼，我刚才听到的枪声是怎么回事？
+
+'''苏克（伪装成唐尼）：''' 你的一只[[悲尸]]从笼子里跳出来打算袭击我，我没有办法只能开枪自卫。
+
+'''格雷姆林：''' 天哪，唐尼，你这完全是危害实验的操作。你甚至不应该携带枪支进入实验室，这完全违反了安全规定！
+
+'''苏克（看起来像古普勒）：''' 我的意思是，不管怎么说，你的试验并不是最优秀的构思。至于我的行为危害了试验，这正是我想做的。我厌倦了你们人类为了自己的利益而操纵这些愚蠢的实体。后室本应是宁静的，而在人类进入这里之后，一切都在走下坡路。你们总是认为自己是上帝，无所不能，然而，[[M.E.G.]]实际上是后室的诅咒，这个研究团队更是如此。
+
+'''格雷姆林：''' 瑞安？但是，你刚才还是唐尼，你究竟是什么？
+
+'''苏克（呈现黑色）：''' 一个会变化形态的实体，一个[[Impersonator|能够变化出杀死的人类样貌]]的实体。你永远不会明白，你的研究团队以及相关数据库，只是这个广阔空间存在的楼层、实体和异常特性的冰山一角，而我想维持这个样子。
+
+'''[又一声枪响]'''
+</div>
+</div>
+
+<div class="mw-customtoggle-tenth" style="color:green">'''后记-#1号备注 >'''</div>
+<div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-tenth">
+<div style="background-color:#AAAAAA; margin:1em; padding:5px 10px; border:2px double #777777 ; border-radius: 20px">
+'''07/03/2001: 最终备注'''
+----
+让我们重新开始，好吗？对于未来可能发现这张纸条的流浪者来说，后室研究团队已经不复存在。我消灭了全部43名科学家，将他们从后室中彻底抹除。
+
+我的动机和[[Level 70]]的乐土直接相关——仅仅是这个研究团队在这个实验室进行试验，就有可能阻止我生活的进步。你们人类从来不做有益的事情，只会破坏你们在前室接触到的一切，你们互相残杀，同时破坏着地球的环境。有时，你们试图联合起来来对抗一个共同的敌人，但这往往会演变成核威慑以及未来的核战争。
+
+是什么促使着你们在后室做同样的事情？[[M.E.G.]]如此坚定地要在后室这里殖民，却没有意识到早起在前室的殖民企图只会破坏当地的人类和植物。这些实体可能是敌对的，但它们也有生命，它们只是在保护自己的领地不受入侵者——人类的侵扰。
+
+请回去吧，远离这里，否则你将付出代价。
+
+签名，<br />
+XXXXX
+</div>
+</div>
+</div>
+</div>
+----
+导致原后室研究团队43名科学家失踪的原因尚不清楚，目前有迹象表明这是一起连环凶杀案，但科学家的尸体至今无法找到。相关调查仍在进行中，目前由新的后室研究团队负责组织进行。目前，我们建议流浪者远离[[Level 28]]，直到另行通知。[[M.E.G.]]将该层视为犯罪现场，真空室已经被移到当前的研究实验室进行进一步的研究。
+
+==殖民地和前哨站==
+===后室研究团队===
+虽然团队已经不再将本层称为自己的家，现在该组织选择在[[Level 11]]中的一个专用实验室大楼里进行研究。后室研究团队在本层对实体、物质和时间进行了大量实验，并详细描述了这些时间和成功情况。在本·格雷姆林博士的领导下，这个由大约43名成员组成的研究团队发现了许多令人震惊的成果，这极大的增强了我们对整个后室的了解。他们的许多研究成果已经上传到了数据库中，用于提示流浪者前方可能出现的危险和景象。
+
+虽然放弃本层的具体原因尚不清楚，并且我们无法询问任何一位后室研究团队的创始成员，因为他们都已经失踪（据推测已经死亡）。实验室里没有找到他们下落的痕迹，有猜测认为，设备故障或者敌对实体已经将他们的尸体彻底从后室抹去。
+
+===后室安全部队 - M.E.G.分队===
+后室安全部队始终停留在本层，一方面来防止未经授权的用户访问实验室，另一方面也可以继续搜索和提供更多关于后室研究初始团队失踪信息的证据和数据。强行识图进入这一层会被入口处的保安严厉警告，但除非你一直做出过激举动，警卫会尽可能避免使用武力。
+
+一旦调查结束，安全部队可能会放弃这一楼层。目前，守卫将组织任何流浪者进入本层。调查中发现的任何证据都将移交给后室研究团队进行进一步分析。
+
+如果你目前由任何问题和疑虑，请联系分队负责人德里克·盖姆斯。他目前在[[Level 70]]执行任务，下面是他的联系信息：
+{| class="article-table"
+!德雷克·盖姆斯 - 后室安全部队负责人
+----
+'''电话:''' 1+ [tel:(996)-103-1922 (996)-103-1922]<br />
+'''邮箱:''' derrickgammesbsf@meg.org<br />
+'''年龄:''' 他自称427岁，但我们都怀疑这个年龄的真实性。<br />
+'''居住楼层:''' [[Level 70]]<br />
+'''外号:''' "福刻鱼", "大枪杆子"
+|}
+
+==入口和出口==
+===入口===
+* 警告，所有的入口都已经被删除，这里是一个绝密区域，之后[[M.E.G.]]的高级成员和后室研究团队的科学家才能进入。
+
+===出口===
+* 按照你来的方式离开，你会回到原来的楼层。
+* 在某些机器被篡改时，会将你带到[[Level 29]]。
+
+{{Collapse|initial=<span style="color:brown">'''> 查看作者与关于信息'''</span>|final=<span style="color:brown">'''< 隐藏作者与关于信息'''</span>|body=作者:[https://backrooms.fandom.com/wiki/User:SkyCityXD3 SkyCityXD3]<br>译者：[https://backrooms.fandom.com/wiki/User:NotFatDog 不是肥狗] [https://backrooms.fandom.com/wiki/User:NotFatDog 不是肥狗]}}
+
+{{Redirect|Prev=27|Next=29}}
+__NOTOC__
+__NOEDITSECTION__
+
+[[en:Level 28]]
+[[Category:楼层列表]]
+[[Category:楼层]]
+[[Category:集群1]]
+[[Category:神话楼层]]
+[[Category:Class 0]]

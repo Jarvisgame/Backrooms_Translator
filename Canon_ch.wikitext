@@ -1,0 +1,146 @@
+==何为设定？==
+伴随着作者们经年累月的不懈创作，我们的维基拥有了浩如烟海的文章页面。尽管如此，<u>'''后室'''</u>，仍自始至终笼罩在谜团之中。于是，当理论数量渐渐增长，推测最终成为了确切的观念。每个人都有着自己对后室的理解。就这样，'''设定'''诞生了。
+
+一般来说，“设定”这一术语意指<u>解释了后室中“[[楼层]]”这一概念的[[Backrooms Wiki:List of Backrooms Canons|相关设定]]</u>。然而，每个流浪者可能都有个人的脑设，部分创作者甚至为它们创建了自己的页面。虽然我们的开放创作欢迎每一位流浪者为社区做出自身贡献，但，当然，我们只接受那些通过我们质量标准的文章。根据页面守则，任何不符合必要标准的页面都将被改进或删除。这里同样遵循这一规定，只有质量够格的设定才能够添加到此页面。
+__TOC__
+<center>
+<div class="featurebox" style="color:black;">
+==典范设定==
+这些设定质量极高，堪称经典，它们正是供有意向创作优秀设定的作者参考的绝佳灵感来源。在诗韵潮流的爆发创造出新的精品前，它们是后室中绝无仅有的，最原初的设定典范。
+<div class="featurebox">
+=== <big>'''[[Impresario Canon|中流砥柱]]'''</big> ===
+<div class="featureflavor" style="padding-top:10px;"><span style:"color:black;">
+中流砥柱聚焦于[[M.E.G.|主要探索者集团]]，它阐释了这一组织的等级制度和许多后室现象。这些页面中的绝大部分都是由[[:en:User:Schicksalhaft|Schicksalhaft]]撰写的，也正是他提出了此设定的概念。它还解说了M.E.G.的背景故事，讲述了它如何诞生、以及那些创建者们的故事。</span>
+</div>
+</div>
+<div class="featurebox">
+=== <big>'''[[Soulverse|灵魂诗章]]'''</big> ===
+<div class="featureflavor" style="padding-top:10px;"><span style:"color:black;">
+在这个时间线中，[[M.E.G.]]的规模与范围都得到了极为显著的扩张，而这样的行为到底也成了他们分崩离析的导火索；因为他们面对实体和敌对派系的不断围困，仍然努力保持对自己大片领土的控制。技术进步少得可怜，而且相距甚远；探险队最多只有两到十人，装备简单的武器，如消防斧、撬棍或者热武器（如果他们幸运的话）。电子设备备受追捧，录音机、手电筒等技术在流浪者中受到高度重视。大多数楼层都设有前哨，以引导流浪者前往更安全的地方或据点。每个前哨站平均有50名人员驻守。前哨站还会监测更不稳定的楼层，以及时了解任何变化，并进行初步研究。
+
+在收集资源和招募迷路的流浪者方面，前哨站预计是半自给自足的。救济人员和物资通常在数月之内都无法到达难以穿越的楼层。这样，当人员最终抵达时，前哨可能早就已经被完全摧毁或遗弃。所有前哨站都与一个安全楼层的基地相连，前哨站最初从那里扩展到其他楼层，亦或在那里继续扩张。</span>
+</div>
+</div>
+<div class="featurebox">
+=== <big>'''[[:Category:融合之典设定|融合之典]]'''</big> ===
+<div class="featureflavor" style="padding-top:10px;"><span style="color:black;">
+'''融合之典'''的核心故事在于承诺权力和救赎的王座之冠。阿尔法与欧米茄的故事传遍了整个后室，引起了一场探寻真相的宏大探索。从无穷的阈限空间，到地狱之深渊，甚至是万物之外的虚空，都可能作为那些因子之一随神话流传。</span>
+</div>
+</div>
+==标准设定==
+以下的设定或许称不上经典，但仍然值得社区了解。注意，此处收录的设定不一定完整，并且可能会在恰当的时候进行改进。
+
+在达到质量标准的前提下，任何人都可以将他们的设定列于下表之中。
+<div class="featurebox">
+=== <big>'''[[Mater Lunae Canon|月亮圣母]]'''</big> ===
+<div class="featureflavor" style="padding-top:10px;"><span style:"color:black;">
+这里是关于'''月亮圣母'''设定的页面的中心。
+
+月亮圣母，是缀于[[The Moon|月星]]之上的女神。她看上去是一个20多岁的年轻女性，穿着白色衣服，头戴嵌有月星标志的头饰。她是一个强大的实体，能够弯折现实本身，不过这只能在她的住所之上。她每十五天降临一次琴科斯蒂亚，看看那里的人；这有时可能需要更长的时间，毕竟这是如此超凡脱俗的一件事。正如卡皮马卡联邦共和国一样，月亮圣母也知晓后室的存在。</span>
+</div>
+</div>
+<div class="featurebox">
+=== <big>'''[[Empyreanverse|至高天之歌]]'''</big> ===
+<div class="featureflavor" style="padding-top:10px;"><span style:"color:black;">
+这条时间线产生的原因是被称为“至高海之子”实体们的存在，其中最强大的成员之一“至尊者”，是一位诞生于已知宇宙之外的原始混沌中的神灵。“至尊者”是相当重要且值得注意的，因为它的行为最终导致了后室的形成……或者这就是一个比较真实的故事？除了任何与主体诗歌和叙事内容直接冲突的内容以外，这条时间线也遵守着“后室自由故事线”。这意味着其中每一个层级、故事或者实体都在一个相对公平的环境中————当然，玩笑页面除外。这是一条高质量的时间线，所以参与者的作品必须拥有一定的质量（几乎没有页面错误、独特的概念、规范的格式、引人入胜的写作手法等等）。</span>
+</div>
+</div>
+<div class="featurebox">
+=== <big>'''[[The Hellfields|地狱恶土]]'''</big> ===
+<div class="featureflavor" style="padding-top:10px;"><span style:"color:black;">
+地狱恶土是具有非常混乱性质的实体和层级的集合。这些层级就是地狱本身的表现，或者能够营造出这种混沌的氛围。而至于实体，它们不需要身处地狱，它们只要足够疯狂就已经是地狱了。不管你如何挣扎，地狱恶土总会将你扒皮抽骨，挫骨扬灰，尽管你第一时间根本不想这样做。在后室整体的环境中，你去往哪里是很难预测的，这些空间随时可能在你毫不知情的情况下卡进去。上一秒你还可能处于[[Level 0|前厅]]，下一秒你就可能被传送到[[Level -177|癫痫地狱]]，或者死于[[Carbonations|你从未亲眼见证]]。</span>
+</div>
+</div>
+<div class="featurebox">
+=== <big>'''[[Normalverse|标准章节]]'''</big> ===
+<div class="featureflavor" style="padding-top:10px;"><span style:"color:black;">
+2007年2月2日，一种被命名为“虚空”的神秘物质浮出水面，它将人类吸入其中并引起了极大的恐慌。不管这个宇宙中有多少生物，也不管它们怎样挣扎求生，它都在不断的吞噬着。很快，它开始吸收空间和时间。这时一个强大的存在想要创造一个可怕的死亡陷阱，因此它创造了后室，一个由纯粹的邪恶创造的，一个空间连接着另一个空间的无穷无尽的地狱般的维度。来到这里的人们终将失去，而当他们成功逃离时，他们就会被“虚空”吸收，但如果他们不这样做，他们就会失去理智。不管如何尝试都难逃一死。那位强大的存在发现后室有很多尚且安全的地方，所以为了平衡，它又增加了新的更加可怕和无法解释的空间，叫做边界。没有人记得“虚空”吸收了多少人，因为进入后室的人会失去他们的记忆。
+
+标准章节是后室标准准则，标准章节比后室中绝大多数设定更加激烈，表现为强烈的冲突、肉体折磨和无所不能的存在。</span>
+</div>
+</div>
+<div class="featurebox">
+=== <big>'''[[The Omni Canon|观测者]]'''</big> ===
+<div class="featureflavor" style="padding-top:10px;"><span style:"color:black;">
+后室曾经也像一块酒庄后的大片平原便于让人观察。本设定聚焦于拥有更深含义的后室，以及记录各层级发生的情况。</span>
+</div>
+</div>
+<div class="featurebox">
+=== <big>'''[[Let There Be Dark|尘埃往事]]'''</big> ===
+<div class="featureflavor" style="padding-top:10px;"><span style:"color:black;">
+在过去M.E.G.还没有成立之前，所有的探索小组、殖民地和前哨站都是在我们今天所熟知的实体形成之前成立的。那时的后室还只是迷宫，没有出口且实体数量很少，相当的荒凉。可以说，后室直到如今仍处于初级阶段。
+
+本设定聚焦于后室如何转变为了现在的情况，并且生成了多少实体，以及其他组织是如何诞生并试图保持神秘的。</span>
+</div>
+</div>
+<div class="featurebox">
+=== <big>'''[[The Wanderer Files|流浪者日志]]'''</big> ===
+<div class="featureflavor" style="padding-top:10px;"><span style:"color:black;">
+你好，流浪者。
+
+来看看人类的智慧吧。</span>
+</div>
+</div>
+<div class="featurebox">
+=== <big>'''[[Submit To Insanity|屈于疯狂]]'''</big> ===
+<div class="featureflavor" style="padding-top:10px;"><span style:"color:black;">
+“在你头脑的身处，到底还隐藏了什么东西？”
+
+……对这个东西小心点，我是认真的。</span>
+</div>
+</div>
+<div class="featurebox">
+=== <big>'''[[Liminality|阈限逃亡]]'''</big> ===
+<div class="featureflavor" style="padding-top:10px;"><span style:"color:black;">
+在卡入后室之后，马苏和紫、可可、库基、苏琼结伴求生，甚至幻想着逃离这个迷幻的现实。在他们数次遭遇盟友和敌人之后，马苏团队中的每位成员都更加了解彼此，团队的联系也日益密切。马苏也经历了悲伤的五个阶段。但与此同时，一股强大而邪恶的力量仍潜伏在后室之中，它比普通的后室实体更加危险……</span>
+</div>
+</div>
+<div class="featurebox">
+=== <big>'''[[Tamaverse|塔玛史诗]]'''</big> ===
+<div class="featureflavor" style="padding-top:10px;"><span style:"color:black;">
+没有节拍，没有旋律，只有一本进旧故事集。</span>
+</div>
+</div>
+==驰名设定==
+这些设定在某种程度上可能并不“恰当”，但它们亦是对后室的独特诠释。
+<div class="featurebox">
+=== <big>'''[[考尔论文]]'''</big> ===
+<div class="featureflavor" style="padding-top:10px;"><span style:"color:black;">
+有理论认为，后室是一种虚假的脑内幻象：一种因对它的确信而产生的想法。由于人们对这一概念越来越深信不疑，后室最终成为了现实。除此之外，这个概念最终会产生出一种观点——后室早就已经存在。也就是说，后室最终创造了一个''它一直存在''的悖论。</span>
+</div>
+</div>
+<div class="featurebox">
+=== <big>'''[[The Behavioral Suite|人类行为学]]'''</big> ===
+<div class="featureflavor" style="padding-top:10px;"><span style:"color:black;">
+人类是一个有趣的矛盾体，他们的感受基于自己在心理、情感、精神、肉体和社会层面上的体验。这种经历塑造了你对现实的看法。本设定将讨论人类感知的三个方面：
+
+# 对未知和陌生事物的强烈探索欲。
+# 对自己在现实中存在的自我怀疑。
+# 生存本能。
+
+对人类行为的探索通常是一种有益的活动，因为它可以帮助你成长和发展，丰富你的生活，让你接触新的人和思想，帮助你理解人的意义，了解你周围的世界。人类在现实中的自我怀疑，催生了宗教、心理学、哲学、科学等领域。人类对生存和适应的强烈渴求是人类作为一个物种蓬勃发展并进化到遍布'''[[The Frontrooms|前室]]'''的各个角落的原因。
+
+人类对于'''[[The Backrooms|后室]]'''探索所做出的努力不应该被遗忘。</span>
+</div>
+</div>
+<div class="featurebox">
+=== <big>'''[[阈限宇宙学]]'''</big> ===
+<div class="featureflavor" style="padding-top:10px;"><span style:"color:black;">
+该设定是一个不同故事的合集，时间范围从全宇宙开始之前，一直到万物不可避免地衰退到它所来自的虚无之中。这个设定的特点是对后室有着更具敌意和悲观的解读，更注重后室的超现实和心理恐怖元素。</span>
+</div>
+</div>
+<div class="featurebox">
+=== <big>'''[[Black Hole Canon|黑洞]]'''</big> ===
+<div class="featureflavor" style="padding-top:10px;"><span style:"color:black;">
+本设定以实体为中心，主要聚焦于[[Black Hole Cellist|黑洞提琴家]]和M.E.G.的冲突。</span>
+</div>
+</div>
+<div class="featurebox">
+=== <big>'''[[:Category:Liminalists canon|阈限行者]]'''</big> ===
+<div class="featureflavor" style="padding-top:10px;"><span style:"color:black;">
+本设定聚焦在一组独立的阈限空间，这些空间独立于后室，M.E.G.还没有涉足其中。该区域的特定仅由一群人在一个名为“阈限行者”的论坛上记录。</span>
+</div>
+</div>
+<span style:"color:black;">新的设定将继续被添加。请协助更新此页面。</span>
+</div></center>
+{{DISPLAYTITLE:用户设定列表}} __NOEDITSECTION__

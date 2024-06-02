@@ -1,0 +1,29 @@
+{{Class 2e}}
+<div style="background: linear-gradient(180deg, #aa0000, #aa4400, #aaaa00, #00aa00, #00aa44, #0000aa, #6600aa); color: #fff; border: 2px solid #000; border-radius: 7.5px; text-align: center; padding: 10px; margin: 1em; animation: slide2 120s linear infinite;">'''Notice:''' The following page is much better in '''dark mode'''; however, if you prefer readability and contrast over gorgeousness, use '''light mode''' instead. Up to you! Also, if you can, add entrances and exits, as I don't know any levels to add that would fit, but if you do, please write them in using the second-person perspective used throughout the rest of the level.
+
+===Lightheaded===
+''You're getting dizzy, aren't you?<br>
+''I don't blame you. There's no way spinning for days in a row is fun.<br>
+''Why don't you tell your tale?
+
+You woke up, rapidly revolving around... something. Your vision hadn't quite caught up yet, but you had, almost immediately wanting to throw up from the angular speed of the object you appeared to be sitting on. As you began to open your eyes, you realized there were reflective steel bars laid out in a circle, suspended above your still lightheaded, sat-down body by more steel bars. Getting up, you immediately leaned on the metal railing, looking around to assess the situation. You were on a merry-go-round, revolving at what you measured at one rotation per second, or 60 rpm. Looking around, you realized this was only one of many merry-go-rounds, rotating around in an endless pitch black abyss like stars twinkling on a night sky. As much as you wanted to admire the view, you remembered anything could happen in the Backrooms, and decided it was best to start thinking about supplies and entities instead. Scanning the area some more, you didn't spot any entities (or much anything else) in the level as you let go a sigh of relief, and you decided food and water needs were a priority for now. Not too far from where you were was a much slower merry-go-round, where you could not only rest, but more easily scout out the area in search of more food, but it would require a leap of faith onto a lower merry-go-round, and if you fell, you could potentially keep falling for a really long time until you hit another merry-go-round and suffered a catastrophic death. Honing yourself, you prepared to take the jump off of where you were now onto the other merry-go-round, then finally leaped off.
+
+You missed the jump, falling the equivalent of seven stories on Earth. While falling, you noticed gravity was slightly weaker than on Earth, then wondered where gravity nearly as strong could come from. Suddenly, you remembered you were falling, and began panicking.
+
+''Crack.''
+
+You were still alive, but barely. You had broken your right arm, likely damaged or fractured a hip, and sprained your ankle badly. "It could've been worse," you thought. "I could've broken my legs, or both my arms, or so many other things could have happened, but I'm still alive." Every part of your body was in some kind of pain as you laid, slowly revolving around yet another cursed merry-go-round. Thankfully, this one wasn't nearly as fast as the one you had just been on, and according to your calculations was about one rotation every six seconds, or 10 rpm. Struggling to lift yourself off the floor of the merry-go-round, you began looking around once more in search of anything. You noticed a merry-go-round right next to you had a box with unknown contents inside it, and if you played it relatively safe you could climb onto it and look inside the box for anything to aid you on your journey; you did just that, one foot after the other, until you were able to enter the other, even slower merry-go-round and finally rest on the floor of it, opening the box while sat down. Inside, you conveniently found medical supplies, a bottle of Almond Water, and a pinwheel. Out of pure insanity from what you had just experienced, you set aside the other things for later and began playing with the pinwheel, a child-like anemoia washing over you. After everything that just happened, you just wanted to relax and leave this place.
+
+[[File:level148.jpg|400px]]<br>
+<span style="font-size: 8px;">We asked an artist to draw the level based on description. While these weren't exactly the merry-go-rounds we meant, to give them credit, they did a great job.</span>
+<div class="mw-customtoggle-meta">'''<u>Meta Note</u>'''</div><div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-meta">
+Written by '''Xenontetraflouride''' (Fandom)<br>
+Artwork drawn by '''@chaos#7805''' (Discord)
+</div>
+</div>
+{{DISPLAYTITLE: Unending Vertigo}}
+__NOTOC__ __NOEDITSECTION__
+[[Category:Cluster I]]
+[[Category:Levels]]
+[[Category:Format Screws]]
+[[Category:Unrestricted Levels]]

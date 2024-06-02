@@ -1,0 +1,107 @@
+{{DISPLAYTITLE:> Level 25 - <span class="onlylight" style="background: linear-gradient(to bottom, #0B0B45,#241f3c); -webkit-text-fill-color: transparent; -webkit-background-clip: text; font-family:Rubik Glitch; color:brown; text-shadow: 0 0 35px gray;">"失控"</span>
+<span class="onlydark" style="font-family:Rubik Glitch; color:gray; text-shadow: 0 0 35px white;">"失控"</span>}}
+{{Background|file=Level_25_b.jpg}}
+{{Headerbox|header=<div class="pagefooter"></div><span style="font-size:25px;"><code><span style="font-family:Jost;"><u>'''鬼知道这个地方荒废了多久......'''</u></span></code></span><div class="pagefooter"></div>|file=Level_25_b.jpg|speed=20s}}<div style="font-family:Jost; background: #0B0B45; color: white; border: 15px double #2c2c2c; box-shadow: 0 0 100px #000000 inset; padding: 1rem; margin:1em; text-shadow: 0 0 10px white, 0 0 10px black;">
+{{Class Custom Image|class=1|hexagon=<small>🖥</small>|safety=安全|stability=稳定|entity=实体罕见|bg-image=Level_25_1.jpg|text-color=#D3D3D3}}
+----'''Level 25'''是[[Backrooms_Wiki|后室]]现存的第26层。根据最近公开的一系列相关流浪者对该楼层的报告，本层被认定于2017年7月12日首次发现。
+
+<div class="pagefooter"></div><span style="font-family: Jost; font-size:30px;"><code><span style="font-family: Jost;">'''> ''描述'''_''</span></code></span><div class="pagefooter"></div>
+
+{{Blurimage|file=Level_25_2.png|caption=在街机的运行噪声中，似乎可以发现一些生命存在的痕迹。
+----<span style="font-family: Jost;"></span>
+----}}
+
+'''Level 25'''，被称为“失控”或者“街机厅”，是一个独特且有趣楼层，这里的环境会引起流浪者对20世纪80年代中后期街机厅时代的怀念。'''Level 25'''内部被划分为数个房间，每个房间按顺序依次联通，内部的游戏厅橱柜装饰风格类似上世纪80年代中后期，并占据了房间的大部分空间。部分房间内部发生了故障或者因为不知名原因被破坏的面目全非，成为了本层潜在的电气威胁。房间部分或者全部由朽坏的混凝土浇筑而成，有些房间的部分地面上会铺上地毯，这些复古的设计往往会让人对本层的主题印象深刻。虽然'''Level 25'''的大小仅有2961英里左右，是后室中的一个小型楼层，但可能是由于其轻度危险和杂乱的环境，目前本层尚未得到充分的探索和记录。
+
+本层中外太空主题给人的第一感觉，似乎与上文提到的老式街机厅氛围相吻合。本层有着模仿天空闪烁星辰的昏暗霓虹灯，以及悬挂在天花板上的人造太阳系模型，给人耳目一新的感觉。再加上本层部分区域已经被废弃并和大自然融为一体，这样的装饰美学和内部状况让本层很容易与其他层区分开来。本层另外一个引人注目的地方是层内的地毯，有些是表面偶尔有行星和恒星图案装饰的深红色地毯；有的则是随机散布着指示恒星位置白点的黑色地毯。这两种类型的设计并不仅限于地板，它也可以是墙上或者天花板上的外装饰。本层的外太空主题似乎有着某种异常特性，即使装饰物本身没有任何的发光装置，但仍然可以在没有光源的地方发光，环境越黑暗，其发出的光照强度越高。
+
+天花板上的LED灯通常十分暗淡，并且并非是本层的主要光源，甚至许多房间中都没有顶灯。取而代之的是投币式街机和摇杆式街机柜发出的光亮。然而，在没有街机的房间，房间内的地毯会发出淡淡的光亮，防止房间过于黑暗，但如果上述物品在房间内都不存在，则该区域会陷入完全的黑暗。本层各处都安装了空调设备，可以保证环境温度凉爽舒适。
+
+{{Blurimage|file=Level_25_1.jpg|caption=
+----<span style="font-family: Jost;">被遗忘的童年时代</span>
+----}}
+
+除了街机之外，流浪者还可以找到许多不需要硬币即可运行的投币式游戏机，这意味着流浪者可以在房间中进行免费游玩。绝大多数的游戏机和其他娱乐设备都已经通电并一直处于运行状态，但或许是这个房间中没有插座，亦或是电源插座有限，房间中可能存在一些插头没有插入电源的游戏机，导致机器无法运行。本层的氛围是静谧甚至有些孤独的，因为全部娱乐设置都不会发出声音，只有在上面游玩的流浪者才能听到。层内的某些地方，上世纪80年代的经典流行音乐的醇厚音调可能会微微提高，但不管怎样这首歌总是让流浪者怀念他们的童年时代。
+
+除了海量的投币式游戏机之外，还有一些其他科技产品，比如任天堂的GameBoy，NES和其他手持类游戏机，但是都出产于上世纪80年代左右，并且无法链接到wifi。本层还存有老式的可乐和自动零食贩卖机，个别自动售货机似乎在持续运营，内部仍装有一些物品。有些自动售货机上可能会贴有“故障”的纸质标志，提示流浪者它们无法正常运行，所有的售货机都无法被破坏，这意味着你无法通过暴力方式取到内部的物品，这些故障售货机内部除了大量的日用品和补给之外，有些还存有部分贵重物品。但由于其出现了故障，所有物品无法取出，以至于现在有假设提出这些售货机本身就是假的，内部物品只是幻觉罢了。
+
+本层并非所有地点都是游戏机厅，其他地方也有诸如室内游乐场、大型餐厅或者保龄球馆、蹦床公园。室内游乐场是由许多类型的游玩区域连接而成的一个大型空间。大型餐厅是一个有着很多用餐座位的巨大房间，房间周围还有许多餐馆，快餐和上世纪80年代风格的披萨仍然在持续免费供应，并且还在不断补充。这些地方有很多自动售货机，并且始终弥漫着快餐、披萨和苏打水的气味。保龄球馆则是典型的霓虹灯保龄球馆，具有很多和游戏机厅相同的特征。
+
+{{Blurimage|file=Level_25_3.jpg|caption=
+----<span style="font-family: Jost;">回忆之路的起点</span>
+----}}
+
+然而一些散落在不同房间内桌子和地板上的零食和饮料是否可以安全食用这一点还很值得怀疑，因为它们大多在很久之前就已经过期并且尝起来并不好吃。当然一些有着超长保质期的零食和饮料除外，然而，尽管有保质期这一限制，自动贩卖机内出售的所有食品都可以安全食用，似乎该机器可以防止食物和饮料变质。
+
+游戏厅有一部分门通向洗手间，而不是另一间游戏厅。带有“员工通道”标识的门通向层内后面的闲置区域。它们内部有的有着板条箱而其他区域则存放着一些老式长筒低温锅炉，后者通常还存放着杏仁水和普通零食等标准食品。游戏厅内有很多被遗弃的街机仍然可以游玩，不过其他绝大部分已经损坏。
+
+本层的一些区域废弃情况更加严重，物品和垃圾散落一地，整个房间似乎被洗劫一空，湿漉漉的地毯被撕扯的破破烂烂，损坏的街机随处可见，还能正常运行的屈指可数。这些房间的地板积了厚厚的一层灰尘，这表明它们被遗弃了相当长的一段时间而没有得到清洁。这些废弃区域随时可能被摧毁，因为屋内墙壁的裂缝已经蔓延到了天花板，但这似乎并不会对相邻的房间造成任何影响，裂缝在其他房间内会随着时间的推移而自行愈合。这些房间内部的吊灯要么全部损坏，要么无法工作。
+
+<div class="pagefooter"></div><span style="font-family: Jost; font-size:30px;"><code><span style="font-family: Jost;">'''> ''街机机柜'''_''</span></code></span><div class="pagefooter"></div>
+{{Blurimage|file=Level_25_4.png|caption=
+----<span style="font-family: Jost;">能勾起旧日回忆的机柜</span>
+----}}
+
+本层其他区域几乎被街机机柜占据着，它们的整体风格与上世纪80年代早期至中期的风格类似，有着各式各样的尺寸。然而，它们的功能在很大程度上只能与那个时期的游戏兼容，其中一些街机游戏在[[前室]]中很有名，但也存在着一些从来没有在[[前室]]中出现过的游戏，这些游戏似乎没有名字和游戏目标。停用或者破损老旧的电子街机柜可以通过各种方式进行洗劫、清理和破坏。这些机柜可以被丢弃到废弃区域或者员工房间。
+
+然而，极少数(大约每1500个中存在一个)街机柜具有异常特性，这些机柜经过改造，可以将当前的玩家传送到其内部设定好的后室楼层。这些机柜通常情况下只显示一个黑暗的屏幕，而当用户与设备交互时，屏幕将会显示他们即将到达的楼层的像素画面，通过再次按下机柜的任何按钮，玩家将传送到该楼层。
+
+由于某些未知的原因，这些机柜不同于一般的街机，它们如果损坏，其异常特性将会永久消失，再也不能用作出口。该情况由M.E.G.发现，当时在运输通向[[Level 10]]的机柜时发生了机柜进水事故，随机机柜完全无法食用。截至目前，已发现的机柜可以将流浪者送到一下楼层：[[Level -2]]、 [[Level 0]]、 [[Level 3]]、 [[Level 5]]、 [[Level 6]]、 [[Level 9]]、 [[Level 10]]、 [[Level 11]]、 [[Level 12]]、 [[Level 19]]、 [[Level 21]]、 [[Level 24]]、 [[Level 26]]、 [[Level 29]]、 [[Level 37]]、 [[Level 41]]、 [[Level 50]]、 [[Level 87]]、 [[Level 90]]、 or [[The End]]。需要注意的时，进入诸如[[Level 87]]或者[[The End]]之类的楼层不会生成对应供退出的机柜。
+
+<div style=" background: black; color: white; padding:5px; border-left:5px solid white; margin: 5px 0 5px 2px; box-shadow: 0px 0px 7px #000000;">
+
+你现在可能理解了我将'''Level 25'''命名为'''游戏厅'''的原因，因为游戏机柜可以带你去许多其他楼层，甚至可能这里可以通向后室的每一层。本层不同于[[Level 21]]将你带到随机楼层，这里通向的楼层都十分明确。只要你在一堆机柜中找到一个不起眼的机器，按下按钮进行互动，它就会激活并显示一张你即将被送到的楼层图片，而你再次和它互动，它将带你卡出到目标楼层。我个人猜测机柜的颜色似乎在传递着它通向的楼层的信息，但我并不确定。本层与很多其他楼层相连，起到了某种类似枢纽的作用。这是为了什么？我并不知道，但我觉得本层一定是某些人改造的结果。可能在很久之前这里有一个团体或者组织，他们试图将这些游戏机柜连接到后室的不同楼层，并将这个楼层作为其穿行后室寻找物质以及与其他楼层的殖民地进行贸易的中转站。当然，这一切的一切都是我的猜测罢了。
+
+许多流浪者误解了本层，他们认为这里是一个没有出口的陷阱，会诱惑流浪者无限持续玩街机游戏，使其看起来像是天堂一个错误版本。我并不理解流浪者为什么会这样想，我印象里可能是因为那次类似于影响[[Level 13]]的事件，导致通向所有楼层的出口全部被锁住，流浪者也无法离开。然而，入口仍然有效。这导致新进来的流浪者也被困在本层，这个时间大约持续了六个月左右的事件，导致数据库中的'''Level 25'''丢失。该事件结束之后，出口开始重新发挥作用，但是人们对'''Level 25'''的糟糕印象已经无法改变。
+
+<div style="text-align: right">— [[User:KingSheep17|KingSheep17]]，'''Level 25'''的发现者</div>
+</div>
+
+<div class="pagefooter"></div><span style="font-family: Jost; font-size:30px;"><code><span style="font-family: Jost;">'''> ''实体'''_''</span></code></span><div class="pagefooter"></div>
+
+'''Level 25'''中实体很少，能够观察到的实体有[[Kats]]，一般情况下可以看到它们在破碎的街机机柜中打盹，或者在探索周边环境并与之互动。除此之外还有零星的一些[[无面人]]，有时在和街机机柜互动，或者发出一些背景噪音。
+
+<div class="pagefooter"></div><span style="font-family: Jost; font-size:30px;"><code><span style="font-family: Jost;">'''> ''殖民地和前哨站'''_''</span></code></span><div class="pagefooter"></div>
+
+<div class="pagefooter"></div><span style="font-family: Jost; font-size:20px;"><code><span style="font-family: Jost;">'''>> ''M.E.G. 街机厅基地'''_''</span></code></span><div class="pagefooter"></div>
+
+* 由M.E.G.建立的前哨基地，用于收集和转移具有异常性质的街机机柜，以便他们可以探索并与其他楼层的其他前哨基地进行交易。
+
+* 由大约20人组成，负责在本层收集不同机柜。
+
+<div class="pagefooter"></div><span style="font-family: Jost; font-size:30px;"><code><span style="font-family: Jost;">'''''> 出入口'''_''</span></code></span><div class="pagefooter"></div>
+
+<div class="pagefooter"></div><span style="font-family: Jost; font-size:20px;"><code><span style="font-family: Jost;">'''>> ''入口'''_''</span></code></span><div class="pagefooter"></div>
+
+* <u>主入口：</u> 在[[Level 24]]中，少数情况下会随机出现微型虫洞，进入其中有可能来到本层。不要进入大型虫洞或者黑洞，因为它会撕裂流浪者。
+
+* 在其他楼层找到街机并与之互动有可能来到本层。
+
+* 进入特定的房间也可以来到本层，这点有些类似[[Level 4]]的看门人壁橱。只要在房间内停留足够长时间即可让人失去知觉并来到游戏厅。
+
+* 在[[Level 29]]中找到一个挂满游戏厅画的房间也可以来到这里。
+
+<div class="pagefooter"></div><span style="font-family: Jost; font-size:20px;"><code><span style="font-family: Jost;">'''>> ''出口'''_''</span></code></span><div class="pagefooter"></div>
+
+* 正如上文所说，与特定的街机互动可能会卡出到对应楼层。
+
+来到本层的尽头并穿过旋转门，有可能来到[[Level 9]]或者[[Level 11]]。
+----
+
+<div style="text-align: right>
+<div class="mw-customtoggle-author"><span style="color:green">'''>>> 作者信息'''</span></div>
+<div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-author">
+原始版本作者： [[User:KingSheep17|KingSheep17]].
+<br/>重写作者： [[User:MaxCommonXD|MaxCommonXD]], [[User:MikeScpFan229|Mike]]， [[User:ARandomMiner8068|Xanth]].
+<br/>维基网站信息： [[User:ARandomMiner8068|Xanth]].
+<br/>译者： [[https://backrooms.fandom.com/wiki/User:NotFatDog|不是肥狗]]，[[https://backrooms.fandom.com/wiki/User:Shangdan 上单]]。
+<br><br>
+也感谢各位读者的阅读<br>非常感谢您查看此页面！如有任何反馈、意见或建议，请在下方评论<br>同时也欢迎投稿，团队合作可以实现每一个梦想。
+</div>
+</div>
+<br>
+{{Redirect|Prev=24|Next=26}}
+</div>
+[[Category:Cluster I]]
+[[Category:Levels]]
+[[Category:Positive Levels]][[Category:Safe Levels]]

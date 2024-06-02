@@ -1,0 +1,153 @@
+{{DISPLAYTITLE: Level 223: "Operations"}}
+{{Class 2}}
+Level 223 is the 224<sup>th</sup> level of the Backrooms and is part of Cluster 1.
+==Description==
+<div class="right-image">
+[[File:Operations.png|OPERATION-ROOM|link=]]
+An image of an operation room that can be viewed from one of the windows.
+</div>
+Level 223, or simply "Operations," is a massive structure with interconnected halls and rooms that resemble hospitals found in [[The Frontrooms]]. Despite possessing hospital-like facilities, this level is usually referred to as a laboratory due to the enormous quantity of lab equipment and chemicals located there. Even so, wheelchairs and stretchers are rarely seen laying around in cubicles or corridors—but whether it is a hospital or not is still up for debate. It is unknown when exactly Level 223 originated, but judging off the modern architecture and equipment, it is believed that it is from the 21<sup>st</sup> century; albeit there are various items found that don't seem to belong from the said time period.
+
+The floor is composed of smooth stone and the structure appears to be totally constructed of white porcelain. This level's lights seem to continually emanate a faint, bluish color that illuminates the level. No light switches or breakers are present in this level, and one can't physically turn off the lights without destroying them. When a wanderer walks through a hallway, there is a chance that the wanderer might spot a window that allows the said wanderer to see the outside. Beware, sightings of [[Windows|Entity 2]] have been confirmed. The interior of the rooms vary one from another. We have managed to document 4 types of rooms that one may encounter during their stay in the level.
+
+<div style="background: #ffffff; color: black; margin:1em; padding:5px 10px; border: solid #000000;"><tabber>
+
+|-| The Medication Room=
+The Medication Room is a type of room that can be found on Level 223 from time to time. The room will be packed haphazardly with cupboards and drawers containing bandages, vitamin pills, and various items and substances. These substances are stored in their respective plastic containers and are poorly labeled with a blue marker.
+
+Under '''<u>any</u>''' circumstances, these chemicals should '''<u>not</u>''' be consumed as they may have disastrous effects on the person, including death. If you plan to hoard or retrieve these substances, exercise caution and wear safety glasses and gloves.
+|-| The Patient Room=
+The Patient Room is a common type of room and one you will most likely encounter. The room usually has several wheelchairs and hospital beds which are perfectly aligned. One may hear the sound of a heartbeat monitor in the background; however it's possible one may not notice it at all, due to how brief it is.
+
+Each Patient Room varies in size but they are always large enough to fit the wheelchairs and hospital beds that are present in the room. Besides that, there are no noteworthy features of this type of room whatsoever but many regard it as a "resting spot" for wanderers who tend to travel Level 223 for long periods of time.
+
+This is also the only location in the level where one can safely wander without the need of protective suits and due to how common they are, it is possible to travel long distances in the level while going in and out of these rooms - due to the fact that the gas can't enter any instances of the "Patient Room."
+|-| The "Lab"=
+The Lab, also known as the Experimental Room, is a style of room that resembles a laboratory. It is comparable to the Frontrooms, however it might not be present there. Numerous lab instruments and compounds are there, all of which are either set up on a large iron table that is in the middle of the room or stored in the cabinets that are situated in weird spots, as one might already infer from the room type's name.
+
+Any area of the room is filled with an unidentified, blue gas. Gas masks have also been shown to be useless against this gas. It has been established that breathing this gas is dangerous as it will assault your lungs and seriously damage them in only a short period of time. This gas will eventually kill you. For the sake of your '''<u>safety</u>''', do not enter any door that is labeled "LAB."
+|-| The Operation Room=
+The name of the level is directly derived from the rarest room type: The Operation Room. Three iron tables are always properly placed in the middle of "The Operation Room." Defibrillators, oxygen concentrators, sterilizer machines, suction machines, anesthetic equipment, an operating table, and a light may be found in a cabinet and closet that are typically in the room's corner.
+
+Rarely, one may come upon a "Operation Room" that contains human organs like hearts, intestines, brains, and other tissues in a tiny plastic bag with the label "Organs," among others. It is unclear if these are taken from humans or if the levels naturally contain them. Nevertheless, it is a horrifying sight for many wanderers and one even describe it as "anatomically disturbing."
+
+Regardless of earlier experiences, the affected wanderer will start experiencing flashbacks of being operated on while they are awake, spitting out their own essential organs, and frequently throwing up blood after being here for more than two minutes. This may lead to the wanderer losing their mind, and in the majority of cases, becoming an [[Wretches|Insanity]]. Those who don’t fall into these cases will often pass out and wake up in [[Level 0]].
+
+The wanderer will pass out and suffer a horrifying dream if they touch an organ bag. As a result, unless in possession of a gadget that enables them to securely take them, one should not deal in any way with these bags.
+</div>
+</tabber>
+
+The corridors seems to go on endlessly, however this is an optical illusion induced by a strange, invisible gas on this level. The gas will not harm your body or physically/mentally harm your mind in any way. Gas masks are ineffective and only work for an approximate of five to ten minutes before wearing out. One will require a full SCBA suit if they wish to safely wander these halls.
+
+The lethal consequences of breathing in this gas have been discovered through additional research and testing. Parts of the subject's memories will start to be replaced by memories of operations or working as a surgeon. The patient may have significant side effects from these impacts, including abrupt grief and loss, loss of sanity, and mild/intense hallucinations. It is also possible get lung cancer from breathing the gas, and due to our current medical research, it is unlikely that you will be treated.
+
+The lights may flicker on and off for no apparent reason or purpose. When researchers looked into it, they found that the lights merely glow and that there is no wiring, and even when the bulbs were pulled apart for investigation, nothing odd was revealed. Some suggest that there some kind of microorganism that is responsible for this, but this was later debunked.
+
+It has been stated that multiple invisible wormholes can be found in various parts of the level. They can be used to convey one person to another area and are quite beneficial when attempting to reduce travel time from one spot to another. Use caution when using these wormholes, as several of them have been claimed to lead to [[The Void]] or other deadly levels. It is unknown how these wormholes were created and connected.
+
+Malicious groups have started to remember the locations of the wormholes, misusing them to apprehend wanderers in an effort to persuade them to hand over resources or accept their offers of servitude. In an effort to stop numerous colonies from doing this, many of our forces have been sent. <s>We need help.</s> For the time being, ones are heavily advised to stay away from these wormholes.
+==Entities==
+Sightings of [[Windows|Entity 2]] and [[Hounds|Entity 8]] have been made and confirmed. 
+==Colonies & Outposts==
+Due to an existing anomaly, it is impossible for a colony or outpost to be formed.
+==Entrances & Exits==
+===Entrances===
+*Opening a modern-looking, hospital door will take one to this level;
+*As one travels through [[Level 16]], they may spot a wheelchair, in a middle of hallway, moving. This is a sign one is going to be teleported to this level;
+*Certain anomalies brought one from [[Level 14]] to this level;
+*Noclipping in certain areas of [[Level 193.1]] will take you here;
+*[[The Hub]] provides an entrance to '''Level 97''' - go through a door labeled "OPERATION ROOM";
+*Having certain flashbacks may lead one to either the Patient Room or the Operation Room.
+===Exits===
+*Many wormholes will lead one to the following levels: [[Level 0]], [[Level 4]], [[Level 3]], [[Level 8]], [[Level 16]], [[The Void]], etc;
+*Entering a wooden door will lead one to [[Level 96]];
+*An unknown anomaly will kick one out of the level and into [[The End]];
+*One can safely enter [[Level 0]] by going into a closet labeled "0;"
+*In order to enter [[Level 14]], one will have to find a rusty metal door and enter it;
+*Dejá vu... [[Level 3333]].
+==Discovery==
+The following file showcase an agent who happen to stumble upon '''Level 223''' while they were on a mission to retrive an unknown item.
+
+<div class="mw-customtoggle-third"><span style="color: green;">'''>FILE-DISCOVERY-223'''</span></div><div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-third">
+<div class="titleblock"><span class="titlebox">Audio Start</span><br>
+'''Agent Mark Roberts:''' Krystle, do you copy?
+
+'''Operative Krystle Ayaan:''' I copy. What is your current location?
+
+'''Agent Mark Roberts:''' I'm currently in [[Level 16]]. I repeat - I'm in [[Level 16]].
+
+'''Operative Krystle Ayaan:''' Your task is to retrieve an unknown, anomalous object. Proceed further.
+
+'''Agent Mark Roberts:''' Come on! We are friends. No need to speak with that tone.
+
+'''Operative Krystle Ayaan:''' We are indeed friends but it is important that I make sure that you are well-informed and so do I.
+
+'''Agent Mark Roberts:''' Roger that! ''slight giggle'' Well, nothing strange so far but I did spot a wheelchair seemingly moving on its own.
+
+'''Operative Krystle Ayaan:''' Probably nothing strange. Continue furt-
+
+'''[CONNECTION LOST]'''
+
+'''Agent Mark Roberts:''' Ugh... Where am I? Krystle? Can you hear me?
+
+'''Operative Krystle Ayaan:''' Loud and clear Mark. What is your current location?
+
+'''Agent Mark Roberts:''' Uhm. I'm in some facility or something. There are some doors and the hallways appear to stretch for eternity. Do we have any levels that have a similar description?
+
+'''Operative Krystle Ayaan:''' Well, you will have to elaborate further. There many levels with that same description.
+
+'''Agent Mark Roberts:''' The lights appear to emit some kind of blue-ish light and the walls are made out of white porcelain and the floor is made out of smooth stone.
+
+'''Operative Krystle Ayaan:''' According to the Database's records, there's no such level with that description.
+
+'''Agent Mark Roberts:''' I must have found a new level or something. I will search for an exit. I will be temporary disconnecting for the sake of better audio.
+
+'''Operative Krystle Ayaan:''' Update me. Will you?
+
+'''Agent Mark Roberts:''' I will! Don't worry.
+
+'''[AUDIO ENDS]'''
+</div>
+</div>
+==Attatched Information==
+<div class="mw-customtoggle-first"><span style="color:blue;">'''>Recovered Note'''</span></div><div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-first">
+<div class="titleblock"><span class="titlebox">Recovery Date: Unknown</span><br><center>''VWLYHAPVU-271''<br /><br />
+</center>Klzwpal ovd tbjo P kpzsprl tf qvi, pa pz vicpvbz aoha P dpss ulcly xbpa hz svun hz aol jvuayhja ylthpuz. P kpzjvclylk aoha Rlcpu huk P ohk illu vyklylk av jhyyf vba "Vwlyhapvu-271." Aol khf pz nvpun av il clyf svun.
+
+
+Zbwwvzlksf, dl ohcl av ahrl vba aol whaplua'z iyhpu, lflihssz, huk, olss, olhya. Aolyl dpss il uv dhf av hcvpk aopz, hz tf ivzz ohz hsylhkf zahalk aoha dl dpss il alytpuhalk pm dl ylmbzl av jvtwsf dpao aol ybslz huk wyvjllk dpao aol vwlyhapvu. Pa'z 2 WT ypnoa uvd, 3 ovbyz ilmvyl P ohcl av kv zvtl uhzaf zopa.
+
+Qbza mpupzolk aol vwlyhapvu, sprl lclyf vaoly vul aoha P wlymvyt, aopz vul pz qbza hz uhzaf. Aopurpun hivba ohunpun vba dpao Rlcpu shaly, P ullk zvtl aptl vmm myvt aopz qvi. Iba, ha slhza pa pz luvbno mvy tl av hmmvyk mvvk huk zolsaly mvy tf mhtpsf. P zobaaly av aopur doha dpss ohwwlu pm aopunz kvlzu'a nv aol dhf aolf hyl. P tbza zavw dypapun. P tbza uva sla aopz nla av tl, ha hss jvza.
+
+UVAL: Ibyu aopz whnl shaly.
+
+''Signed, Mark Roberts.''
+</div>
+</div>
+<div class="mw-customtoggle-second"><span style="color:blue;">'''>Unknown File'''</span></div><div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-second">
+<div style="background: #e1e1e2; color: #000000; margin:1em; padding:5px 10px; border: solid #000000; font-family: monospace; border-radius: 20px; font-size: 20px;">
+<center>IHBE··EEWT··IOF·S·R·
+
+
+UTM·N·I·KPS·ERE·POS·
+
+
+APS·L·E·E·
+
+
+T·NRNEUO·S··TO·
+
+
+LAVHIREEEERRS·YE·EW·
+</center>
+</div>
+</div>
+
+{{Collapse|initial=<span style="color:green">'''> Open Author And License Information'''</span>|final=<span style="color:green">'''> Close Author And License Information'''</span>|body=
+'''Author:'''[[User:Nqh1|Nqh1]]<br>
+'''Copyright:''' The image used for the level is posted by the user [[User:SherlsF|SherlsF]] on the Backrooms Fandom Discord Server. Image licensed under CC-BY-SA.
+}}
+
+__NOTOC__
+__NOEDITSECTION__
+[[Category:Unconfirmed Levels]]

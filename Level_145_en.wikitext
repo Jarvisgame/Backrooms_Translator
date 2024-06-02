@@ -1,0 +1,82 @@
+{{DISPLAYTITLE:Level 145: "Floating Monastery"}}
+
+'''level 145''' is the 146th level of the Backrooms
+
+{{Class 2|safety=Unsafe|security=Secure|entity=Low Entity Count}}
+[[File:Level 145 image.png|thumb|341x341px|Photo taken in the corridors of level 145.]]
+
+== Description ==
+'''Level 145''' looks like a typical European Christian monastery from the 1600s, except that it floats in a dark void, and its foundations rest on nothing. Nevertheless the gravity in this level always points in the direction of the floor and going out of a window will cause to fall in the void. The interiors are the same as one might expect from a 17th century monastery, as are the furnishings. The rooms and corridors are completely dark and the temperature varies from 3 to 5 °C (37,4-41 °F). Inside the building It's possible to constantly hear a latin sacred chant in the background (except in the novitiate), together with footsteps and other noises, although the origin of these sounds is not determinable. The exploration of the level is quite complex as the layout of the corridors is constantly changing. What does not change about the monastery are the rooms which can be found in it and its dimensions.
+
+=== Rooms and areas ===
+Given the ever-changing nature of the monastery some rooms may change position, but their appearance always remains the same.
+
+==== Church ====
+This room resembles in all aspects a rich 17th century church. In this room the sacred chant audible throughout the monastery is much stronger, but it is not possible to determine its origin.
+
+==== Bedrooms ====
+About 50 bedrooms have been identified which vary in size, appearance and number of beds, ranging from 1 to 6. Objects such as [[Almond Water]], robes and crucifixes can be found in some of these rooms. Every 96 hours some random rooms are filled with few of these items.
+
+==== Abbot's Apartment ====
+This room is much richer than the other bedrooms and is filled with rare and valuable items every three months.
+
+==== Kitchen ====
+The kitchen is a room that always appears in the lower levels of the monastery.  This room is stocked with food, water and [[Almond Water]] among the shelves. It gets refilled every 12 hours with different items and resoucres.
+
+==== Library ====
+The library looks completely normal, despite each book having a description of a level that has already been explored on each page. Reading one of these descriptions from top to bottom will cause the reader to be teleported to the level described. Upon entering this room there is a small chance that you will find yourself at [[level 230]].
+
+==== Refectory and Lavatorium ====
+These two rooms always appear close to each other and resemble a normal refectory and lavatorium of a Christian monastery.
+
+==== Calefactorium ====
+The calefacttorium is an environment in which a fire is lit, where one can warm up and rest. This is the location where the Friars of the dark spend most of their time as it's also the only place where there are continuous lighting and heat.
+
+==== Guest quarters ====
+This is a set of bedrooms (15 in total) always found near the infirmary.  These rooms are similar to the normal bedrooms, but some of them are filled with more useful items, including Almond Water, weapons, food, clothing, and silver, bronze or gold coins.
+
+==== Infirmary ====
+This room is always stocked with medicines, useful for surviving in the Backrooms. It gets refilled every 42 hours. 
+
+==== Warehouses ====
+These places are always stocked with objects of all kinds, some typical of a monastery, but others completely outside the religious context.  These items can be very useful when traveling to the Backrooms. The warehouses get refilled every month. 
+
+==== Novitiate ====
+This area is a set of rooms which are similar to those found in the main monastery, in which the background sacred chant cannot be heard and in which smilers can be found slightly more often. However, the church, the guest quarters and the abbot's apartment cannot be found here.
+
+==== School ====
+This area is a set of rooms which are similar to the ones that were used in monasteries to teach novices. This area can be found only in the Novitiate.
+
+==== Outside ====
+The outside is an endless void into which it is possible to fall by exiting from the monastery through a window or door. 
+
+== Entities ==
+Although the level is mostly safe, there have been several instances of [[Smiler|smilers]]' encounters.  In one case a wanderer claimed to have lost his partner because of a [[Rattler]], but the presence of this entity on the level has not yet been confirmed. 
+
+== Colonies and Outposts ==
+In this level there is 1 colony.
+
+=== Friars of the dark ===
+
+* The only colony in level 145, it has 33 members.
+* It consists only of Christians and does not accept official members who are not of the same religion.
+* Very friendly. They will welcome anyone as a guest for as long as he wishes and will supply him with resources for travelling if he decides to leave.
+
+== Entrances and Exits ==
+
+=== Entrances ===
+
+* There is a small chance of ending up here by noclipping through something while performing a Christian prayer.
+* In almost every level, by crouching down, closing your eyes and performing Christian prayers there is a chance that when you'll open your eyes again you will find yourself in the monastery church.
+
+=== Exits ===
+
+* Upon entering the library there is a small chance of ending up in [[level 230]].
+* In the library each book has a description of a level that has already been explored. By reading the description from top to bottom you will be transported in the level described. However, after reading a description the book will disappear, returning to the place from which it was taken.
+* Throwing yourself into the void and falling will transport you to [[level 68]] orr [[level 146|level 146.]]
+* {{Redirect|Prev=144|Next=146}}
+
+<br />
+[[Category:Cluster I]]
+[[Category:Levels]]
+[[Category:Unrestricted Levels]]

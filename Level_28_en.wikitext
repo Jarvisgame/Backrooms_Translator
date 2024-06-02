@@ -1,0 +1,282 @@
+{{DISPLAYTITLE:Level 28: "The Laboratory"}}
+{{Class 0}}
+'''Level 28''' is the 29<sup>th</sup> level of the Backrooms, and served as the former research laboratory for the Backrooms Research Team.
+==Description==
+{{Blurimage|file=Level28.jpeg|caption=A photograph from a mysterious experiment held in '''Level 28'''.}}
+'''Level 28''' takes the appearance of an abandoned science laboratory similar to that of a modern laboratory in the Frontrooms; broken machinery, chemical spills, and flickering LED lights are prevalent. The walls of the laboratory are painted white, microscopes and computers line the tables, and notes can be seen scattered on the floor. There is evidence to suggest that the Backrooms Research Team used to conduct experiments in this area between the years 1996 and 2018, but the reason why this area was abandoned is currently unknown. 
+
+When a wanderer first enters this level, there will be a short hallway with doors on specifying multiple fields of scientific study. Entering the door will lead you to an area that would resemble an abandoned laboratory seemingly dedicated to that scientific area of study. An extensive table containing each scientific field of study and any notable equipment inside the study’s laboratory was found on a wall; it will be posted below.
+
+
+<div style="background-color:#FFFFFF; color:#000000; margin:1em; padding:5px 10px; border:2px dotted #000000; border-radius: 3px">
+'''A Word of Warning:''' None of the equipment in the laboratories work. We've attempted to restart the machinery, even going as far as calling in engineers to come fix the equipment, but to no avail. However, this does not give anyone free reign to mess around with the machinery—while it may not perform its intended duties, accidents can and have occurred despite their status.
+
+In addition, in some cases, the equipment may perform some unexplainable tasks outside of its intended uses; wanderers have reported machinery switching on and off randomly, "coming alive", and transforming into hostile entities. However, none of this information can be verified.</div>
+
+<div class="mw-customtoggle-first" style="color:green">'''View Table >'''</div>
+<div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-first">
+{| class="article-table"
+! style="background-color: #ccf243; color: black" |Study
+! style="background-color: #ccf243; color: black" |Room
+! style="background-color: #ccf243; color: black" |Basic Description
+! style="background-color: #ccf243; color: black" |Notable Equipment
+|-
+| style="background-color: #cfffa8; color: black" |Physics
+| style="background-color: #cfffa8; color: black" |251
+| style="background-color: #cfffa8; color: black" |Studies matter, particles, motion, spacetime, energy, force.
+| style="background-color: #cfffa8; color: black" |Particle Accelerator, Vacuum Chamber
+|-
+| style="background-color: #cfffa8; color: black" |Chemistry
+| style="background-color: #cfffa8; color: black" |102
+| style="background-color: #cfffa8; color: black" |Studies the properties and behavior of matter.
+| style="background-color: #cfffa8; color: black" |HPLCs, Flasks, Bunsen Burners
+|-
+| style="background-color: #cfffa8; color: black" |Biology
+| style="background-color: #cfffa8; color: black" |103
+| style="background-color: #cfffa8; color: black" |Studies life, including the building blocks that make it up.
+| style="background-color: #cfffa8; color: black" |Centrifuges, Bioreactors
+|-
+| style="background-color: #cfffa8; color: black" |Psychology
+| style="background-color: #cfffa8; color: black" |106
+| style="background-color: #cfffa8; color: black" |Studies mind and behavior.
+| style="background-color: #cfffa8; color: black" |Cameras, Skinner Boxes
+|-
+| style="background-color: #cfffa8; color: black" |Astronomy
+| style="background-color: #cfffa8; color: black" |213
+| style="background-color: #cfffa8; color: black" |Studies celestial objects and phenomena
+| style="background-color: #cfffa8; color: black" |Satellite Dishes, Telescopes
+|}
+</div>
+
+Assuming none of the equipment is messed with, this laboratory is perfectly safe to wander. The current Backrooms Research Team, situated in [[Level 11]], is attempting to figure out why such a place was abandoned. They have scoured the area and collected any notes of significance that could help solve the mystery—if wanderers in this level see any notes that may be helpful, we encourage them to forward the notes to the laboratory in Level 11 or to [[M.E.G.]]
+
+A few notes—most in email form—will be posted below. Understand that authorized access is required to view them. Attempting to hack into the database will result in harsh punishment.
+
+'''BACKROOMS RESEARCHERS ONLY!'''
+<div class="mw-customtoggle-second" style="color:green">'''View Notes >'''</div>
+<div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-second">
+{| class="article-table"
+!Input Your Credentials:
+|Username: bresearchteam14
+
+Password: **********
+|}
+<div class="mw-customtoggle-third" style="color:green">'''Enter >'''</div>
+<div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-third">
+'''Access Authorized. Do not leak this information.'''
+----
+<div class="mw-customtoggle-fourth" style="color:green">'''Particle Accelerator - Email #1 >'''</div>
+<div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-fourth">
+<div style="background-color:#AAAAAA; margin:1em; padding:5px 10px; border:2px double #777777 ; border-radius: 20px">
+'''From:''' Dr. Ben Gremlit, Head of the BRT<br />
+'''To:''' Dr. Yu Sook<br />
+'''Date:''' 6.3.2001<br />
+'''Subject:''' Physics Room - Particle Accelerator Issues?
+----
+Sorry for the disturbance, Dr. Sook, but I believe this is extremely urgent.
+
+I request your assistance in Room 251 immediately. Our particle accelerator appears to be functioning. Usually, it should be accelerating two particles, causing them to collide to create some high-energy disturbance; however, in the seconds before the particle collision, it appears as though the particles… decelerate. 
+
+I cannot exactly find a cause for this phenomenon, but seeing how you are our lead physicist, I expect you to be able to fix it.
+
+In the meantime, I’ll implement a new vacuum chamber experiment; I have a few [[Facelings]] and a [[Wretches|Wretch]] with me at the moment. I would like to test whether these entities can survive without air.
+
+'''Experiment:''' A1
+
+'''Goal:''' <br />
+A1 will serve to determine whether Backrooms entities can survive without air or oxygen. If this statement appears to be true, we may conduct further tests to develop specific effective weapons and strategies to ward them off.
+
+'''Necessary Materials:'''
+
+*Room 251’s vacuum chamber
+*3 Facelings
+*1 Wretch
+* Several working cameras; the ones in Room 106 should suffice
+*Working computer to log the results in the database
+
+'''Scientists Requested:''' 
+
+*Dr. Yu Sook
+*Theresa Black
+*Joseph S. Downey
+* Taylor Joy-Haufman
+*Kathleen Reeves
+* Ryan Gupler
+
+For reasons of confidentiality, I will not send any more information about this project through this email—it will run the risk of interception. I expect you to show up at Room 251 on June 7 at approximately 9:30 AM according to the laboratory clock. From there, I will explain the procedure.
+
+Notify the other five scientists. I believe we will be able to complete this experiment without any notable issues. I am eager to wait for your response.
+</div>
+</div>
+<div class="mw-customtoggle-fifth" style="color:green">'''Missing Scientist - Email #2 >'''</div>
+<div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-fifth">
+<div style="background-color:#AAAAAA; margin:1em; padding:5px 10px; border:2px double #777777 ; border-radius: 20px">
+'''From:''' Dr. Ben Gremlit, Head of the BRT<br />
+'''To:''' Dr. Yu Sook<br />
+'''Date:''' 6.8.2001<br />
+'''Subject:''' Where are you?
+----
+Dr. Sook, I am sending this email because you have not reported to the laboratory in a week. Our particle accelerator is still broken, and we cannot start the experiment without you.
+
+If there is something wrong, please tell me. I’ll post the updated experiment details below. I hope you'll read it and provide any suggestions.
+
+'''Experiment:''' A1
+
+'''Goal:''' <br />
+A1 will serve to determine whether Backrooms entities can survive without air or oxygen. If this statement appears to be true, we will start using this information to develop weapons specifically meant to disable the entities, if not kill them.
+
+'''Necessary Materials:'''
+
+*Room 251’s vacuum chamber
+*7 [[Facelings]]
+*4 [[Wretches]]
+*1 [[Hound]]
+*1 [[Skin Stealer]]
+*Working cameras; the ones in Room 106 appear to be broken, so bring your own.
+*Working computer to log the results in the database
+
+'''Scientists Requested:''' 
+
+*Dr. Yu Sook
+*Theresa Black
+*Joseph S. Downey
+* Taylor Joy-Haufman
+*Kathleen Reeves
+* Ryan Gupler
+
+For reasons of confidentiality, I will not send any more information about this project through this email—it will run the risk of interception. Please show up at Room 251 on June 23 at approximately 9:30 AM according to the laboratory clock. I hope to see you there.
+</div>
+</div>
+<div class="mw-customtoggle-sixth" style="color:green">'''Sook's Response - Email #3 >'''</div>
+<div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-sixth">
+<div style="background-color:#AAAAAA; margin:1em; padding:5px 10px; border:2px double #777777 ; border-radius: 20px">
+'''From:''' Dr. Yu Sook<br />
+'''To:''' Dr. Ben Gremlit<br />
+'''Date:''' 6.19.2001<br />
+'''Subject:''' Re: Where are you?
+----
+Sorry, Dr. Gremlit; I was doing some investigations at [[Level 70]]. An incident involving the five keepers of the Level 70 simulation occurred, and I was called to investigate. I apologize for making you wait. Alpha, or Ryan Gupler as you may know him, was found dead with three gunshot wounds, killed under mysterious circumstances. I still have to finish my report on the matter, so this might put a delay to the project you suggest.
+
+However, once I finish, I propose we continue moving on. This A1 experiment appears to have potential. I’ll inform the others and will be in the lab at the assigned time.
+</div>
+</div>
+<div class="mw-customtoggle-seventh" style="color:green">'''Gremlit's Response - Email #4 >'''</div>
+<div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-seventh">
+<div style="background-color:#AAAAAA; margin:1em; padding:5px 10px; border:2px double #777777 ; border-radius: 20px">
+'''From:''' Dr. Ben Gremlit, Head of the BRT<br />
+'''To:''' Dr. Yu Sook<br />
+'''Date:''' 6.20.2001<br />
+'''Subject:''' Thanks for informing me.
+----
+Hello, Dr. Sook, I got the email you sent.
+
+Thank you for finally responding. I heard about Level 70's little incident—it's really tragic, and it may compromise the safety of the wanderers in that level. However, you could have informed me earlier that you were doing that report before you went on that “extended break” to investigate Level 70. It’s very unlike you to take breaks at all, especially without informing me. 
+
+I'll have Julia Fe replace Gupler—you remember her, right? She has blonde hair, blue eyes, pale skin. She worked in the Biology department with Gupler. You might need to break the news to Fe; she and Gupler were inseparable.
+
+Regardless of the situation, I’ll see you in 3 days. Please remember to inform the other scientists. The Facelings are getting restless. 
+</div>
+</div>
+<div class="mw-customtoggle-eighth" style="color:green">'''Conversation between Sook and Downey - Transcript #1 >'''</div>
+<div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-eighth">
+<div style="background-color:#AAAAAA; margin:1em; padding:5px 10px; border:2px double #777777 ; border-radius: 20px">
+'''AUDIO TRANSCRIPT: 06/23/2001 - 9:23 AM.'''
+----
+'''Sook:''' I got here as fast as I could, Gremlit.
+
+'''Downey:''' Gremlit? I’m Joseph Downey. Man, did you forget already? What are you doing here, Sook?
+
+'''Sook:''' What am I doing here? Gremlit asked me to assist him in his A1 experiment. He needs to use the vacuum chamber to run tests on the entities. Speaking of Gremlit, where is he?
+
+'''Downey:''' Ah, so that’s what Gremlit was talking about. I didn’t know we were doing some vacuum chamber experiment—no one ever told me. He is in the Chemistry lab, investigating a suspicious occurrence with the bunsen burners. You seem… different, Sook. Something wrong? What happened to your funny jokes to lighten up the mood?
+
+'''Sook:''' Oh… Yes. The jokes. How could I forget? 
+
+'''Downey:''' It's never too late to tell one.
+
+'''Sook:''' Alright. What did Downey say to the scientist before being shot?
+
+'''Downey:''' I don't know. What kind of joke is that anyw-
+
+'''[GUNSHOT]'''
+</div>
+</div>
+<div class="mw-customtoggle-ninth" style="color:green">'''Conversation between Sook and Gremlit - Transcript #2 >'''</div>
+<div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-ninth">
+<div style="background-color:#AAAAAA; margin:1em; padding:5px 10px; border:2px double #777777 ; border-radius: 20px">
+'''AUDIO TRANSCRIPT: 06/23/2001 - 9:32 AM.'''
+----
+'''Gremlit:''' What’s going on here? Downey, why did I just hear a gunshot?
+
+'''Sook (as Downey):''' One of your Wretches broke out of its cage and attacked me. I had no choice but to fire a gun and kill it.
+
+'''Gremlit:''' Good lord, Downey, you’ll jeopardize the experiment. You're not even supposed to have firearms in the laboratory. That's strictly against safety protocol.
+
+'''Sook (Taking the appearance of Gupler):''' I mean, your experiment was not exactly the brightest idea anyway. As for jeopardizing the experiment, that's exactly what I’m trying to do. I’m sick and tired of you humans manipulating these stupid entities for your own benefit. The Backrooms deserve some peace and quiet. Everything went downhill after humans entered the picture, thinking they were God and everything. The M.E.G. is a curse upon the Backrooms, and so is this research team.
+
+'''Gremlit:''' Ryan? But… you were just him a second ago. Wh-what are you?
+
+'''Sook (Taking the appearance of Black):''' A shapeshifting entity, one that [[Impersonator|takes the appearance of the humans it has killed]]. You’ll never understand. Your research team and its related database doesn't even scratch the surface of all the levels, properties, and entities this vast place has to offer. I’d like to keep it that way.
+
+'''[GUNSHOT]'''
+</div>
+</div>
+<div class="mw-customtoggle-tenth" style="color:green">'''Aftermath - Note #1 >'''</div>
+<div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-tenth">
+<div style="background-color:#AAAAAA; margin:1em; padding:5px 10px; border:2px double #777777 ; border-radius: 20px">
+'''07/03/2001: Final Note.'''
+----
+Let's start from the beginning, shall we? To whoever may find this note in the future, the Backrooms Research Team is no more. I eliminated all 43 scientists—wiped them off the surface of the Earth.
+
+My motives tie directly to the paradise in Level 70–the mere existence of this research team experimenting in this laboratory has the potential to halt my life's progress. You humans do nothing but ruin everything you touch—in the Frontrooms, you all kill each other while simultaneously destroying the Earth's environment. Sometimes, you try joining together against a common enemy, but that too always finds a way to devolve into a nuclear war.
+
+What's preventing you from doing the same here—in the Backrooms? The M.E.G. is so adamant on colonizing this area, yet fails to realize that early colonization attempts in the Frontrooms only resulted in the destruction of native human and plant life. The entities may be hostile, but they are living beings. They are merely protecting their own domain from the invaders—the humans.
+
+Turn back. Stay away from this domain—or it will cost you.
+
+Signed,<br />
+XXXXX
+</div>
+</div>
+</div>
+</div>
+----
+The circumstances leading to the disappearance of the 43 scientists of the original Backrooms Research Team has yet to be known. Signs currently point to homicide, but their bodies cannot be found. The investigation is still ongoing, currently being conducted by the current Backrooms Research Team. For now, we suggest avoiding Level 28 until further notice—the M.E.G. is treating this area as a crime scene. The vacuum chamber will be moved to the current research laboratory for further investigation.
+==Colonies and Outposts==
+===The Backrooms Research Team===
+While it no longer calls this place its home, now opting to do research in a dedicated laboratory building in [[Level 11]], the Backrooms Research Team performed experiments on entities, matter, and time while it still used this building. Their notes can be seen scattered around the floor of the level, detailing incidents and successes. Led by Dr. Ben Gremilt, this small team of researchers—having approximately 43 members—discovered shocking results that would enhance our knowledge of the Backrooms as a whole. Lots of their research has been uploaded to the database to inform wanderers of the dangers and sights that lie ahead.
+
+The exact cause for abandonment of this level is unknown; however, we cannot ask any of the original researchers, as they have all disappeared (presumed dead). No traces of their whereabouts exist in the laboratory, and it’s been theorized that equipment malfunctions or malevolent beings may have erased their bodies from existence.
+===The Backrooms Security Force — M.E.G. Subdivision===
+The Backrooms Security Force is always present on this level, preventing unauthorized users from accessing the laboratories while simultaneously searching for evidence and data that could provide more information about the disappearance of the Backrooms Research Team. Attempting to force your way into this level will get you a stern warning from the security guards at the entrance; however, the guards will refrain from using force unless you continuously disobey their orders.
+
+The security force will likely abandon this level once the investigation finishes, if it ever does. For now, guards will stop any wanderers from entering this level. Any evidence found in the investigation is turned over to the Backrooms Research Team for further analysis.
+
+If you have any questions or concerns, please contact the head of the subdivision, Derrick Gammes. He's currently out for a mission in Level 70, but his contact information will be listed below:
+{| class="article-table"
+!Derrick Gammes - Head of the Backrooms Security Force
+----
+'''Phone Number:''' 1+ [tel:(996)-103-1922 (996)-103-1922]<br />
+'''Email:''' derrickgammesbsf@meg.org<br />
+'''Age:''' Claims to be 427, but we doubt his claim is truthful.<br />
+'''Home Level:''' Level 70<br />
+'''Aliases:''' "Fook Yu", "The Big G"
+|}
+== Entrances and Exits ==
+===Entrances===
+
+WARNING! All entrances have been redacted. This is a top-secret area that should only be accessible by high-ranking M.E.G. members and Backrooms Research Team scientists.
+
+===Exits===
+
+*Exit the same way you came. It will bring you back to where you entered from.
+*Certain machines, when tampered with, will take you to [[Level 29]]
+
+{{Redirect|Prev=27|Next=29}}
+__NOTOC__
+__NOEDITSECTION__
+
+[[Category:Levels]]
+[[Category:Cluster I]]
+
+[[Category:Unconfirmed Levels]]

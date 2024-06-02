@@ -1,0 +1,73 @@
+{{DISPLAYTITLE:Level 210, "Winter Ghosts"}}
+{{Class 4}}[[File:WinterGhosts.jpg|alt=|thumb|318x318px|Photo of '''Level 210''' taken by unknown scout drone]]
+'''Level 210''' is the 211<sup>th</sup> level of the Backrooms.
+== Discovery Log. ==
+"As much as I hate taking risks, I had to do what was necessary in order to escape that small M.E.G. group that caught me off guard whilst taking a small walk around the perimeter of the Crimson Wing Headquarters. And when I say do what was necessary, I meant jumping off the mountain into the beyond of the snowy and foggy sky. I had fallen for at least several minutes before crash landing into a pile of snow, which luckily cushioned my fall enough to only break a few bones, I would've been dead if I missed, and I would've had no chance if Dr. Ellis hadn't modified my bone structure to be near-indestructible."
+
+"I would tell you what this new place looks like, but in case you weren't aware, I'm blind. But I'll tell you one thing, It's definitely one of the coldest places I've been in."
+
+==Description==
+'''Level 210''', also known as "Winter Ghosts" is an endless, winterized area with an average temperature of -34°. Which temperature can lead to your death very easy, so if you want to see this level, it's recommended to be using a drone or carrying lots of gear to keep your body temperature up.
+
+Assuming '''Level 210''' is measured at sea level, the heights of various mountains can go up to an estimate of 50,000 feet. (A little less than double the height of well known [[The Frontrooms|Frontrooms]] location, Mt. Everest). These mountains have no trees whatsoever beyond a certain point due to something well known as a Tree Line, naturally, with the breathing impossible when up at higher altitudes due to the drop in air pressure, there is nothing of interest up here, so it's best to be avoided unless you're looking to enter [[level 55]].
+
+There are also a large variety of frozen caverns within this level, seeming to have a network that is mathematical due to them having similar patterns (similar to the Fibonacci series, although no formula has been calculated yet), these caverns are often full of precious minerals the further you go in, but it is not advised to steal/mine them as many wanderers have seemingly experienced unlucky events after taking them, although this has not been experimented on and may be entirely a coincidence.
+
+There are also occasional rivers in this level that provide no known threat and have no proven beginning nor end, (they all seem to link together as well in a sort of tunnel system) the water is warm, about 75% Fahrenheit on average, although still inconsistent, which can make a huge difference surviving the harsh temperature level, these rivers are also full of fish that are completely edible, most resemble trout or salmon, although, they have different bone structures upon analysis, the fish seem to be a lot more wide, which has been hypothesized is for storing body fat, although more research still needs to be conducted.
+
+The lesser known but most dangerous geographical feature of this level are the deep forests, these are completely surrounded by trees and are rather easy to get lost in, these forests are also the habitat of this level specific entity; Winter Ghosts (see more below). These forests are not advised to go to unless you're attempting to exit the level through various means (listed further below, see '''Entrances and Exits''')or document a Winter Ghost. These forests also tend to be a couple degrees colder than normal, for unknown reasons.
+==Entities==
+The only confirmed [[Entity List|entities]] that can appear in '''Level 210''' are
+
+=== Winter Ghosts ===
+Winter Ghosts are a strictly hostile entity that represent a mythical creature known as [https://en.wikipedia.org/wiki/Wendigo Wendigo], although they are far different behavioral wise. Winter  Ghosts are non-physical entities making them completely immune to any physical damage, such as explosions, bullets, knives, etc. They are often lanky with thin limbs, sharp claws, and held together by a string.  The antlers on Winter Ghosts also can serve as radio antennae, and are often able to pick up [[The Frontrooms|Frontrooms]] radio stations, giving them an eerie feeling.
+
+Winter Ghosts, being a non-physical entity, have to hurt you in a non-physical way, they will phase through you and seem like no threat whatsoever, but they are actually capable of implanting a certain trick within your bodies cells that completely turns you into stone. This makes them a strictly close-range entity. This effect also applies to other living creatures besides humans, classifying a Winter Ghost as a [[Counter Entities|Counter Entity]]
+
+Winter Ghosts are also completely blind, but have a hearing comparable to that of a bat. Once you make a single noise, they will relentlessly hunt you down until you get out of their 2-mile hearing range
+
+'''Survival Tips:'''
+
+* Due to them being completely blind, if you see one, make sure to not make sudden movements and to watch where you step, any sort of dead branch can be the gap between life or death.
+* Shut off all mechanical devices that rely on radio signals, as they can track you down by following waves traveling through their horns.
+* If you're completely surrounded, but haven't been noticed yet, throw a rock as far as you can, as far away from you as possible, this will most likely lure them away for a short time, and you can attempt to get to a more safe area and assess the situation.
+* If you travel by a river, they will dismiss all sounds you make as a sound of nature, although, making noise is still not advised.
+* Winter Ghosts are capable of being stunned with an incredibly loud audio, the amount of hertz required seems to be inconsistent, so it's not worth trying unless in the worst case scenario
+
+=== Zverikals: ===
+Zverikals are distinctly related to the [[hound]] entity, but differ in several ways. Zverikals are much larger than the average human and are completely covered in ink. Zverikals are a rather neutral entity but are very easy to provoke, sharing similar behaviors with a bear. These entities, being made of flesh, are capable of being killed with bullets and explosives easily if you aim for their weak spots (either their head or the center of the chest). Zverikals can be seen roaming around anywhere in this level, but most commonly the deep forests and rivers, but least commonly the ice caves.
+
+Zverikals will ally themselves with any other entity that they don't see as a threat, making them completely neutral in this level due to the only other known entity being a Counter Entity.
+
+'''Survival Tips'''
+
+* Do not follow any sort of black, watery, and continuous path, as this will often lead you to an encounter with a Zverikal.
+* Stay calm and do not attack them unless you feel unsafe in their presence
+
+* 
+
+== Colonies and Outposts ==
+Due to the low temperature of this level, it is almost impossible to establish a colony or outpost, there seemingly have been several attempts noted by various broken down huts, but all known abandoned places possess no information of past colonizers, further research must be conducted,
+
+==Entrances and Exits==
+===Entrances===
+*Noclipping through a patch of snow or a pine tree found in any other level has a chance of bringing you here.
+*Noclip through a handmade statue of yourself. Although this will spawn you inside a deep forest and is not advised to do so.
+*One of the doors inside [[Level 92]] can lead here.
+*By chanting a specific ritual, no one knows what the words are, or where it brings you, all that is known is that there is one.
+*Wandering far enough away from [[level 55]] can lead you here.
+===Exits===
+*To exit, reach the top of a mountain going over a height of at least 30,000 feet, this will bring you to [[level 55]]
+*Taking the gemstones from the cave will supposedly either bring you to [[Level 3]] or [[Level !]], but this is not confirmed
+*Suffocating inside a cave will bring you back to [[level 0]] or lead to your death (uncommon, but still unadvised)
+*causing a forest fire will lead you to [[level 27]], but this is almost impossible and has only been completed once.
+*Possibility to reach the [[level 35.1]] by no clipping through a random tree.
+*No-clipping through any tree will most likely lead you to [[Level ☏ - “The Phone Rang”|Level ☏]]
+*Traversing into the deep forest has a small chance to transport you to [[Level 925]]. When this happens, you will suddenly feel very drowsy while going through the forest to the point that you fall down to the ground and immediately fall asleep, during this time period, you can occasionally be killed by an unaware winter ghost, but this is incredibly rare.
+*Walking for long enough, if not transported to level 925, will result in this level transforming into [[Level 1942]]
+[[Category:Cluster I]]
+[[Category:Class 4]]
+[[Category:Dangerous Levels]]
+[[Category:Unconfirmed Levels]]
+[[ja:翻訳/Level_210]]
+[[Category:Levels]]
